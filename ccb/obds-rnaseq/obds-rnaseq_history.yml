@@ -1,0 +1,15 @@
+name: obds-rnaseq
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fastqc
+  - multiqc
+  - hisat2
+  - samtools
+  - kallisto
+  - picard
+  - subread
+  - salmon
+prefix: /home/c/ccohen/conda/obds_conda/envs/obds-rnaseq

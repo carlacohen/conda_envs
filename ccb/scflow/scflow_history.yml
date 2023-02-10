@@ -1,0 +1,23 @@
+name: scflow
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - scflow
+  - python=3.8
+  - ca-certificates
+  - certifi
+  - openssl
+  - nbconvert
+  - bustools
+  - bioconductor-tximport
+  - bioconductor-busparse
+  - r-seurat
+  - r-ggthemes
+  - bioconductor-scdblfinder
+  - r-harmony
+  - bioconductor-dropletutils
+  - bioconductor-celda
+  - r-viridis
+prefix: /home/c/ccohen/conda/obds_conda/envs/scflow

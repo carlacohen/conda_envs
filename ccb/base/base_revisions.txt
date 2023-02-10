@@ -1,0 +1,242 @@
+2022-01-27 20:06:52  (rev 0)
+    +_libgcc_mutex-0.1
+    +_openmp_mutex-4.5
+    +brotlipy-0.7.0
+    +ca-certificates-2021.10.26
+    +certifi-2021.10.8
+    +cffi-1.15.0
+    +charset-normalizer-2.0.4
+    +conda-4.11.0
+    +conda-content-trust-0.1.1
+    +conda-package-handling-1.7.3
+    +cryptography-36.0.0
+    +idna-3.3
+    +ld_impl_linux-64-2.35.1
+    +libffi-3.3
+    +libgcc-ng-9.3.0
+    +libgomp-9.3.0
+    +libstdcxx-ng-9.3.0
+    +ncurses-6.3
+    +openssl-1.1.1m
+    +pip-21.2.4
+    +pycosat-0.6.3
+    +pycparser-2.21
+    +pyopenssl-21.0.0
+    +pysocks-1.7.1
+    +python-3.9.7
+    +readline-8.1.2
+    +requests-2.27.1
+    +ruamel_yaml-0.15.100
+    +setuptools-58.0.4
+    +six-1.16.0
+    +sqlite-3.37.0
+    +tk-8.6.11
+    +tqdm-4.62.3
+    +tzdata-2021e
+    +urllib3-1.26.7
+    +wheel-0.37.1
+    +xz-5.2.5
+    +yaml-0.2.5
+    +zlib-1.2.11
+
+2022-05-05 10:05:18  (rev 1)
+     _libgcc_mutex  {0.1 -> 0.1 (defaults/linux-64)}
+     _openmp_mutex  {4.5 -> 4.5 (defaults/linux-64)}
+     brotlipy  {0.7.0 -> 0.7.0 (defaults/linux-64)}
+     ca-certificates  {2021.10.26 -> 2022.4.26 (defaults/linux-64)}
+     certifi  {2021.10.8 -> 2021.10.8 (defaults/linux-64)}
+     cffi  {1.15.0 -> 1.15.0 (defaults/linux-64)}
+     charset-normalizer  {2.0.4 -> 2.0.4 (defaults/noarch)}
+     conda  {4.11.0 -> 4.12.0 (defaults/linux-64)}
+     conda-package-handling  {1.7.3 -> 1.8.1 (defaults/linux-64)}
+     cryptography  {36.0.0 -> 36.0.0 (defaults/linux-64)}
+     idna  {3.3 -> 3.3 (defaults/noarch)}
+     ld_impl_linux-64  {2.35.1 -> 2.35.1 (defaults/linux-64)}
+     libffi  {3.3 -> 3.3 (defaults/linux-64)}
+     libgcc-ng  {9.3.0 -> 9.3.0 (defaults/linux-64)}
+     libgomp  {9.3.0 -> 9.3.0 (defaults/linux-64)}
+     libstdcxx-ng  {9.3.0 -> 9.3.0 (defaults/linux-64)}
+     ncurses  {6.3 -> 6.3 (defaults/linux-64)}
+     openssl  {1.1.1m -> 1.1.1n (defaults/linux-64)}
+     pip  {21.2.4 -> 21.2.4 (defaults/linux-64)}
+     pycosat  {0.6.3 -> 0.6.3 (defaults/linux-64)}
+     pycparser  {2.21 -> 2.21 (defaults/noarch)}
+     pyopenssl  {21.0.0 -> 22.0.0 (defaults/noarch)}
+     pysocks  {1.7.1 -> 1.7.1 (defaults/linux-64)}
+     python  {3.9.7 -> 3.9.12 (defaults/linux-64)}
+     readline  {8.1.2 -> 8.1.2 (defaults/linux-64)}
+     requests  {2.27.1 -> 2.27.1 (defaults/noarch)}
+     ruamel_yaml  {0.15.100 -> 0.15.100 (defaults/linux-64)}
+     setuptools  {58.0.4 -> 61.2.0 (defaults/linux-64)}
+     sqlite  {3.37.0 -> 3.38.2 (defaults/linux-64)}
+     tk  {8.6.11 -> 8.6.11 (defaults/linux-64)}
+     tqdm  {4.62.3 -> 4.64.0 (defaults/linux-64)}
+     tzdata  {2021e -> 2022a (defaults/noarch)}
+     urllib3  {1.26.7 -> 1.26.9 (defaults/linux-64)}
+     wheel  {0.37.1 -> 0.37.1 (defaults/noarch)}
+     xz  {5.2.5 -> 5.2.5 (defaults/linux-64)}
+     yaml  {0.2.5 -> 0.2.5 (defaults/linux-64)}
+     zlib  {1.2.11 -> 1.2.12 (defaults/linux-64)}
+    -conda-content-trust-0.1.1
+    -six-1.16.0
+
+2022-05-05 10:18:56  (rev 2)
+     _libgcc_mutex  {0.1 (defaults/linux-64) -> 0.1 (conda-forge/linux-64)}
+     _openmp_mutex  {4.5 (defaults/linux-64) -> 4.5 (conda-forge/linux-64)}
+     brotlipy  {0.7.0 (defaults/linux-64) -> 0.7.0 (conda-forge/linux-64)}
+     ca-certificates  {2022.4.26 (defaults/linux-64) -> 2021.10.8 (conda-forge/linux-64)}
+     certifi  {2021.10.8 (defaults/linux-64) -> 2021.10.8 (conda-forge/linux-64)}
+     cffi  {1.15.0 (defaults/linux-64) -> 1.15.0 (conda-forge/linux-64)}
+     charset-normalizer  {2.0.4 (defaults/noarch) -> 2.0.12 (conda-forge/noarch)}
+     conda  {4.12.0 (defaults/linux-64) -> 4.12.0 (conda-forge/linux-64)}
+     conda-package-handling  {1.8.1 (defaults/linux-64) -> 1.8.1 (conda-forge/linux-64)}
+     cryptography  {36.0.0 (defaults/linux-64) -> 36.0.2 (conda-forge/linux-64)}
+     idna  {3.3 (defaults/noarch) -> 3.3 (conda-forge/noarch)}
+     ld_impl_linux-64  {2.35.1 (defaults/linux-64) -> 2.36.1 (conda-forge/linux-64)}
+     libffi  {3.3 (defaults/linux-64) -> 3.4.2 (conda-forge/linux-64)}
+     libgcc-ng  {9.3.0 (defaults/linux-64) -> 11.2.0 (conda-forge/linux-64)}
+     libgomp  {9.3.0 (defaults/linux-64) -> 11.2.0 (conda-forge/linux-64)}
+     ncurses  {6.3 (defaults/linux-64) -> 6.3 (conda-forge/linux-64)}
+     openssl  {1.1.1n (defaults/linux-64) -> 1.1.1o (conda-forge/linux-64)}
+     pip  {21.2.4 (defaults/linux-64) -> 22.0.4 (conda-forge/noarch)}
+     pycosat  {0.6.3 (defaults/linux-64) -> 0.6.3 (conda-forge/linux-64)}
+     pycparser  {2.21 (defaults/noarch) -> 2.21 (conda-forge/noarch)}
+     pyopenssl  {22.0.0 (defaults/noarch) -> 22.0.0 (conda-forge/noarch)}
+     pysocks  {1.7.1 (defaults/linux-64) -> 1.7.1 (conda-forge/linux-64)}
+     python  {3.9.12 (defaults/linux-64) -> 3.9.12 (conda-forge/linux-64)}
+     readline  {8.1.2 (defaults/linux-64) -> 8.1 (conda-forge/linux-64)}
+     requests  {2.27.1 (defaults/noarch) -> 2.27.1 (conda-forge/noarch)}
+     ruamel_yaml  {0.15.100 (defaults/linux-64) -> 0.15.80 (conda-forge/linux-64)}
+     setuptools  {61.2.0 (defaults/linux-64) -> 62.1.0 (conda-forge/linux-64)}
+     sqlite  {3.38.2 (defaults/linux-64) -> 3.38.4 (conda-forge/linux-64)}
+     tk  {8.6.11 (defaults/linux-64) -> 8.6.12 (conda-forge/linux-64)}
+     tqdm  {4.64.0 (defaults/linux-64) -> 4.64.0 (conda-forge/noarch)}
+     tzdata  {2022a (defaults/noarch) -> 2022a (conda-forge/noarch)}
+     urllib3  {1.26.9 (defaults/linux-64) -> 1.26.9 (conda-forge/noarch)}
+     wheel  {0.37.1 (defaults/noarch) -> 0.37.1 (conda-forge/noarch)}
+     xz  {5.2.5 (defaults/linux-64) -> 5.2.5 (conda-forge/linux-64)}
+     yaml  {0.2.5 (defaults/linux-64) -> 0.2.5 (conda-forge/linux-64)}
+     zlib  {1.2.12 (defaults/linux-64) -> 1.2.11 (conda-forge/linux-64)}
+    -libstdcxx-ng-9.3.0 (defaults/linux-64)
+    +bzip2-1.0.8 (conda-forge/linux-64)
+    +colorama-0.4.4 (conda-forge/noarch)
+    +libnsl-2.0.0 (conda-forge/linux-64)
+    +libuuid-2.32.1 (conda-forge/linux-64)
+    +libzlib-1.2.11 (conda-forge/linux-64)
+    +python_abi-3.9 (conda-forge/linux-64)
+    +six-1.16.0 (conda-forge/noarch)
+
+2022-05-05 10:21:38  (rev 3)
+    +c-ares-1.18.1 (conda-forge/linux-64)
+    +icu-70.1 (conda-forge/linux-64)
+    +keyutils-1.6.1 (conda-forge/linux-64)
+    +krb5-1.19.3 (conda-forge/linux-64)
+    +libarchive-3.5.2 (conda-forge/linux-64)
+    +libcurl-7.83.0 (conda-forge/linux-64)
+    +libedit-3.1.20191231 (conda-forge/linux-64)
+    +libev-4.33 (conda-forge/linux-64)
+    +libiconv-1.16 (conda-forge/linux-64)
+    +libmamba-0.23.0 (conda-forge/linux-64)
+    +libmambapy-0.23.0 (conda-forge/linux-64)
+    +libnghttp2-1.47.0 (conda-forge/linux-64)
+    +libsolv-0.7.22 (conda-forge/linux-64)
+    +libssh2-1.10.0 (conda-forge/linux-64)
+    +libstdcxx-ng-11.2.0 (conda-forge/linux-64)
+    +libxml2-2.9.14 (conda-forge/linux-64)
+    +lz4-c-1.9.3 (conda-forge/linux-64)
+    +lzo-2.10 (conda-forge/linux-64)
+    +mamba-0.23.0 (conda-forge/linux-64)
+    +pybind11-abi-4 (conda-forge/noarch)
+    +reproc-14.2.3 (conda-forge/linux-64)
+    +reproc-cpp-14.2.3 (conda-forge/linux-64)
+    +yaml-cpp-0.6.3 (conda-forge/linux-64)
+    +zstd-1.5.2 (conda-forge/linux-64)
+
+2022-05-05 10:25:10  (rev 4)
+    +htslib-1.15.1 (bioconda/linux-64)
+    +libdeflate-1.10 (conda-forge/linux-64)
+    +samtools-1.15.1 (bioconda/linux-64)
+
+2022-05-05 10:26:05  (rev 5)
+    -htslib-1.15.1 (bioconda/linux-64)
+    -libdeflate-1.10 (conda-forge/linux-64)
+    -samtools-1.15.1 (bioconda/linux-64)
+
+2022-06-09 15:14:03  (rev 6)
+     ca-certificates  {2021.10.8 (conda-forge/linux-64) -> 2022.5.18.1 (conda-forge/linux-64)}
+     certifi  {2021.10.8 (conda-forge/linux-64) -> 2022.5.18.1 (conda-forge/linux-64)}
+     conda  {4.12.0 (conda-forge/linux-64) -> 4.13.0 (conda-forge/linux-64)}
+     cryptography  {36.0.2 (conda-forge/linux-64) -> 37.0.2 (conda-forge/linux-64)}
+     libarchive  {3.5.2 (conda-forge/linux-64) -> 3.5.2 (conda-forge/linux-64)}
+     libcurl  {7.83.0 (conda-forge/linux-64) -> 7.83.1 (conda-forge/linux-64)}
+     libgcc-ng  {11.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libgomp  {11.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libstdcxx-ng  {11.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libzlib  {1.2.11 (conda-forge/linux-64) -> 1.2.12 (conda-forge/linux-64)}
+     pip  {22.0.4 (conda-forge/noarch) -> 22.1.2 (conda-forge/noarch)}
+     ruamel_yaml  {0.15.80 (conda-forge/linux-64) -> 0.15.80 (conda-forge/linux-64)}
+     setuptools  {62.1.0 (conda-forge/linux-64) -> 62.3.3 (conda-forge/linux-64)}
+     sqlite  {3.38.4 (conda-forge/linux-64) -> 3.38.5 (conda-forge/linux-64)}
+     zlib  {1.2.11 (conda-forge/linux-64) -> 1.2.12 (conda-forge/linux-64)}
+     zstd  {1.5.2 (conda-forge/linux-64) -> 1.5.2 (conda-forge/linux-64)}
+
+2022-06-14 12:02:52  (rev 7)
+     cryptography  {37.0.2 (conda-forge/linux-64) -> 37.0.1 (defaults/linux-64)}
+     openssl  {1.1.1o (conda-forge/linux-64) -> 3.0.3 (conda-forge/linux-64)}
+     python  {3.9.12 (conda-forge/linux-64) -> 3.9.13 (conda-forge/linux-64)}
+     readline  {8.1 (conda-forge/linux-64) -> 8.1.2 (conda-forge/linux-64)}
+     requests  {2.27.1 (conda-forge/noarch) -> 2.28.0 (conda-forge/noarch)}
+     setuptools  {62.3.3 (conda-forge/linux-64) -> 62.3.4 (conda-forge/linux-64)}
+    -c-ares-1.18.1 (conda-forge/linux-64)
+    -icu-70.1 (conda-forge/linux-64)
+    -keyutils-1.6.1 (conda-forge/linux-64)
+    -krb5-1.19.3 (conda-forge/linux-64)
+    -libarchive-3.5.2 (conda-forge/linux-64)
+    -libcurl-7.83.1 (conda-forge/linux-64)
+    -libedit-3.1.20191231 (conda-forge/linux-64)
+    -libev-4.33 (conda-forge/linux-64)
+    -libiconv-1.16 (conda-forge/linux-64)
+    -libmamba-0.23.0 (conda-forge/linux-64)
+    -libmambapy-0.23.0 (conda-forge/linux-64)
+    -libnghttp2-1.47.0 (conda-forge/linux-64)
+    -libsolv-0.7.22 (conda-forge/linux-64)
+    -libssh2-1.10.0 (conda-forge/linux-64)
+    -libstdcxx-ng-12.1.0 (conda-forge/linux-64)
+    -libxml2-2.9.14 (conda-forge/linux-64)
+    -lz4-c-1.9.3 (conda-forge/linux-64)
+    -lzo-2.10 (conda-forge/linux-64)
+    -mamba-0.23.0 (conda-forge/linux-64)
+    -pybind11-abi-4 (conda-forge/noarch)
+    -reproc-14.2.3 (conda-forge/linux-64)
+    -reproc-cpp-14.2.3 (conda-forge/linux-64)
+    -yaml-cpp-0.6.3 (conda-forge/linux-64)
+    -zstd-1.5.2 (conda-forge/linux-64)
+
+2022-06-14 12:03:38  (rev 8)
+     openssl  {3.0.3 (conda-forge/linux-64) -> 1.1.1o (conda-forge/linux-64)}
+     python  {3.9.13 (conda-forge/linux-64) -> 3.9.13 (conda-forge/linux-64)}
+    +c-ares-1.18.1 (conda-forge/linux-64)
+    +icu-70.1 (conda-forge/linux-64)
+    +keyutils-1.6.1 (conda-forge/linux-64)
+    +krb5-1.19.3 (conda-forge/linux-64)
+    +libarchive-3.5.2 (conda-forge/linux-64)
+    +libcurl-7.83.1 (conda-forge/linux-64)
+    +libedit-3.1.20191231 (conda-forge/linux-64)
+    +libev-4.33 (conda-forge/linux-64)
+    +libiconv-1.16 (conda-forge/linux-64)
+    +libmamba-0.24.0 (conda-forge/linux-64)
+    +libmambapy-0.24.0 (conda-forge/linux-64)
+    +libnghttp2-1.47.0 (conda-forge/linux-64)
+    +libsolv-0.7.22 (conda-forge/linux-64)
+    +libssh2-1.10.0 (conda-forge/linux-64)
+    +libstdcxx-ng-12.1.0 (conda-forge/linux-64)
+    +libxml2-2.9.14 (conda-forge/linux-64)
+    +lz4-c-1.9.3 (conda-forge/linux-64)
+    +lzo-2.10 (conda-forge/linux-64)
+    +mamba-0.24.0 (conda-forge/linux-64)
+    +pybind11-abi-4 (conda-forge/noarch)
+    +reproc-14.2.3 (conda-forge/linux-64)
+    +reproc-cpp-14.2.3 (conda-forge/linux-64)
+    +yaml-cpp-0.7.0 (conda-forge/linux-64)
+    +zstd-1.5.2 (conda-forge/linux-64)
+
