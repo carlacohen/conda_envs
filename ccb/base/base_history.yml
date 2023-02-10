@@ -1,0 +1,13 @@
+name: base
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - ca-certificates
+  - certifi
+  - openssl
+  - mamba
+prefix: /home/c/ccohen/conda/obds_conda

@@ -1,0 +1,13 @@
+name: kallisto_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - kallisto
+  - bustools
+  - ca-certificates
+  - certifi
+  - openssl
+  - fastqc
+prefix: /home/c/ccohen/conda/obds_conda/envs/kallisto_env

@@ -1,0 +1,9 @@
+name: peaktools_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - deeptools
+  - macs2
+prefix: /home/c/ccohen/conda/obds_conda/envs/peaktools_env
