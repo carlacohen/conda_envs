@@ -49,6 +49,7 @@ dependencies:
   - bioconductor-genomicalignments=1.26.0
   - bioconductor-genomicfeatures=1.42.2
   - bioconductor-genomicranges=1.42.0
+  - bioconductor-glmgampoi=1.2.0
   - bioconductor-hdf5array=1.18.1
   - bioconductor-iranges=2.24.1
   - bioconductor-limma=3.46.0
@@ -375,11 +376,13 @@ dependencies:
   - r-callr=3.7.2
   - r-catools=1.18.2
   - r-cellranger=1.1.0
+  - r-checkmate=2.1.0
   - r-circlize=0.4.15
   - r-cli=3.4.1
   - r-clipr=0.8.0
   - r-clue=0.3_60
   - r-cluster=2.1.3
+  - r-clustree=0.5.0
   - r-codetools=0.2_18
   - r-colorspace=2.0_3
   - r-combinat=0.0_8
@@ -425,7 +428,9 @@ dependencies:
   - r-getoptlong=1.0.5
   - r-ggbeeswarm=0.6.0
   - r-ggdendro=0.1.23
+  - r-ggforce=0.3.4
   - r-ggplot2=3.3.6
+  - r-ggraph=2.0.6
   - r-ggrepel=0.9.1
   - r-ggridges=0.5.4
   - r-ggthemes=4.2.4
@@ -436,6 +441,7 @@ dependencies:
   - r-googledrive=2.0.0
   - r-googlesheets4=1.0.1
   - r-gplots=3.1.3
+  - r-graphlayouts=0.8.1
   - r-gridextra=2.3
   - r-gridgraphics=0.5_1
   - r-gtable=0.3.1
@@ -575,10 +581,12 @@ dependencies:
   - r-tensor=1.5
   - r-testthat=3.1.4
   - r-tibble=3.1.8
+  - r-tidygraph=1.2.2
   - r-tidyr=1.2.1
   - r-tidyselect=1.1.2
   - r-tidyverse=1.3.2
   - r-tinytex=0.42
+  - r-tweenr=2.0.2
   - r-tzdb=0.3.0
   - r-utf8=1.2.2
   - r-uuid=1.1_0

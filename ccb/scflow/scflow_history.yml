@@ -44,4 +44,6 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
+  - r-clustree
+  - bioconductor-glmgampoi
 prefix: /home/c/ccohen/conda/obds_conda/envs/scflow
