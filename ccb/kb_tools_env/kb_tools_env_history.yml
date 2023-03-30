@@ -1,0 +1,8 @@
+name: kb_tools_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - kb-python=0.27.2
+prefix: /home/c/ccohen/conda/obds_conda/envs/kb_tools_env

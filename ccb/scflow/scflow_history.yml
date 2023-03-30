@@ -4,20 +4,46 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - scflow
-  - python=3.8
+  - python
+  - cgat-apps
+  - cgatcore
+  - matplotlib
+  - mygene
+  - pytest
+  - nose
+  - numpy
+  - pandas
+  - kallisto
+  - multiqc
+  - fastqc
+  - fastq-screen
+  - pep8
+  - ruffus
+  - scipy
+  - setuptools
+  - statsmodels
+  - r-base
+  - r-optparse
+  - r-seurat
+  - r-tidyverse
+  - r-ggthemes
+  - scanpy
+  - papermill
+  - leidenalg
+  - bioconductor-busparse
+  - bustools
+  - bioconductor-tximport
+  - bioconductor-dropletutils
+  - bioconductor-celda
+  - bioconductor-scdblfinder
+  - bioconductor-singlecellexperiment
+  - bioconductor-biomart
+  - r-harmony
+  - r-seuratdisk
+  - numba=0.53.1
   - ca-certificates
   - certifi
   - openssl
-  - nbconvert
-  - bustools
-  - bioconductor-tximport
-  - bioconductor-busparse
-  - r-seurat
-  - r-ggthemes
-  - bioconductor-scdblfinder
-  - r-harmony
-  - bioconductor-dropletutils
-  - bioconductor-celda
-  - r-viridis
+  - r-clustree
+  - bioconductor-glmgampoi
 prefix: /home/c/ccohen/conda/obds_conda/envs/scflow
