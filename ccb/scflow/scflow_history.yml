@@ -38,12 +38,14 @@ dependencies:
   - bioconductor-scdblfinder
   - bioconductor-singlecellexperiment
   - bioconductor-biomart
+  - bioconductor-scuttle
   - r-harmony
   - r-seuratdisk
-  - numba=0.53.1
+  - bioconductor-glmgampoi
   - ca-certificates
   - certifi
   - openssl
   - r-clustree
-  - bioconductor-glmgampoi
+  - numba=0.53.1
+  - r-leidenalg
 prefix: /home/c/ccohen/conda/obds_conda/envs/scflow
