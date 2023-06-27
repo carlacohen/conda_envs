@@ -304,3 +304,67 @@
     +toolz-0.12.0 (conda-forge/noarch)
     +zstandard-0.19.0 (conda-forge/linux-64)
 
+2023-03-30 16:50:23  (rev 10)
+     brotlipy  {0.7.0 (conda-forge/linux-64) -> 0.7.0 (conda-forge/linux-64)}
+     ca-certificates  {2022.12.7 (conda-forge/linux-64) -> 2022.5.18.1 (conda-forge/linux-64)}
+     certifi  {2022.12.7 (conda-forge/noarch) -> 2022.5.18.1 (conda-forge/linux-64)}
+     cffi  {1.15.1 (conda-forge/linux-64) -> 1.15.0 (conda-forge/linux-64)}
+     charset-normalizer  {2.1.1 (conda-forge/noarch) -> 2.0.12 (conda-forge/noarch)}
+     colorama  {0.4.6 (conda-forge/noarch) -> 0.4.4 (conda-forge/noarch)}
+     conda  {23.3.0 (conda-forge/linux-64) -> 4.13.0 (conda-forge/linux-64)}
+     conda-package-handling  {2.0.2 (conda-forge/noarch) -> 1.8.1 (conda-forge/linux-64)}
+     cryptography  {40.0.1 (conda-forge/linux-64) -> 37.0.1 (defaults/linux-64)}
+     icu  {72.1 (conda-forge/linux-64) -> 70.1 (conda-forge/linux-64)}
+     idna  {3.4 (conda-forge/noarch) -> 3.3 (conda-forge/noarch)}
+     krb5  {1.20.1 (conda-forge/linux-64) -> 1.19.3 (conda-forge/linux-64)}
+     ld_impl_linux-64  {2.40 (conda-forge/linux-64) -> 2.36.1 (conda-forge/linux-64)}
+     libarchive  {3.6.2 (conda-forge/linux-64) -> 3.5.2 (conda-forge/linux-64)}
+     libcurl  {7.88.1 (conda-forge/linux-64) -> 7.83.1 (conda-forge/linux-64)}
+     libgcc-ng  {12.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libgomp  {12.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libiconv  {1.17 (conda-forge/linux-64) -> 1.16 (conda-forge/linux-64)}
+     libmamba  {1.4.1 (conda-forge/linux-64) -> 0.24.0 (conda-forge/linux-64)}
+     libmambapy  {1.4.1 (conda-forge/linux-64) -> 0.24.0 (conda-forge/linux-64)}
+     libnghttp2  {1.52.0 (conda-forge/linux-64) -> 1.47.0 (conda-forge/linux-64)}
+     libsolv  {0.7.23 (conda-forge/linux-64) -> 0.7.22 (conda-forge/linux-64)}
+     libssh2  {1.10.0 (conda-forge/linux-64) -> 1.10.0 (conda-forge/linux-64)}
+     libstdcxx-ng  {12.2.0 (conda-forge/linux-64) -> 12.1.0 (conda-forge/linux-64)}
+     libxml2  {2.10.3 (conda-forge/linux-64) -> 2.9.14 (conda-forge/linux-64)}
+     libzlib  {1.2.13 (conda-forge/linux-64) -> 1.2.12 (conda-forge/linux-64)}
+     lz4-c  {1.9.4 (conda-forge/linux-64) -> 1.9.3 (conda-forge/linux-64)}
+     mamba  {1.4.1 (conda-forge/linux-64) -> 0.24.0 (conda-forge/linux-64)}
+     openssl  {3.1.0 (conda-forge/linux-64) -> 1.1.1o (conda-forge/linux-64)}
+     pip  {23.0.1 (conda-forge/noarch) -> 22.1.2 (conda-forge/noarch)}
+     pycosat  {0.6.4 (conda-forge/linux-64) -> 0.6.3 (conda-forge/linux-64)}
+     pyopenssl  {23.1.1 (conda-forge/noarch) -> 22.0.0 (conda-forge/noarch)}
+     pysocks  {1.7.1 (conda-forge/noarch) -> 1.7.1 (conda-forge/linux-64)}
+     python  {3.9.16 (conda-forge/linux-64) -> 3.9.13 (conda-forge/linux-64)}
+     python_abi  {3.9 (conda-forge/linux-64) -> 3.9 (conda-forge/linux-64)}
+     readline  {8.2 (conda-forge/linux-64) -> 8.1.2 (conda-forge/linux-64)}
+     reproc  {14.2.4 (conda-forge/linux-64) -> 14.2.3 (conda-forge/linux-64)}
+     reproc-cpp  {14.2.4 (conda-forge/linux-64) -> 14.2.3 (conda-forge/linux-64)}
+     requests  {2.28.2 (conda-forge/noarch) -> 2.28.0 (conda-forge/noarch)}
+     setuptools  {67.6.1 (conda-forge/noarch) -> 62.3.4 (conda-forge/linux-64)}
+     tqdm  {4.65.0 (conda-forge/noarch) -> 4.64.0 (conda-forge/noarch)}
+     tzdata  {2023c (conda-forge/noarch) -> 2022a (conda-forge/noarch)}
+     urllib3  {1.26.15 (conda-forge/noarch) -> 1.26.9 (conda-forge/noarch)}
+     wheel  {0.40.0 (conda-forge/noarch) -> 0.37.1 (conda-forge/noarch)}
+     xz  {5.2.6 (conda-forge/linux-64) -> 5.2.5 (conda-forge/linux-64)}
+     yaml-cpp  {0.7.0 (conda-forge/linux-64) -> 0.7.0 (conda-forge/linux-64)}
+     zstd  {1.5.2 (conda-forge/linux-64) -> 1.5.2 (conda-forge/linux-64)}
+    -boltons-23.0.0 (conda-forge/noarch)
+    -conda-package-streaming-0.7.0 (conda-forge/noarch)
+    -fmt-9.1.0 (conda-forge/linux-64)
+    -libsqlite-3.40.0 (conda-forge/linux-64)
+    -packaging-23.0 (conda-forge/noarch)
+    -pluggy-1.0.0 (conda-forge/noarch)
+    -ruamel.yaml-0.17.21 (conda-forge/linux-64)
+    -ruamel.yaml.clib-0.2.7 (conda-forge/linux-64)
+    -toolz-0.12.0 (conda-forge/noarch)
+    -zstandard-0.19.0 (conda-forge/linux-64)
+    +ruamel_yaml-0.15.80 (conda-forge/linux-64)
+    +six-1.16.0 (conda-forge/noarch)
+    +sqlite-3.38.5 (conda-forge/linux-64)
+    +yaml-0.2.5 (conda-forge/linux-64)
+    +zlib-1.2.12 (conda-forge/linux-64)
+

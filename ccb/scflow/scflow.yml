@@ -76,9 +76,9 @@ dependencies:
   - bioconductor-zlibbioc=1.36.0=r40hd029910_1
   - biopython=1.81=py38h1de0b5d_0
   - biothings_client=0.2.6=pyhd8ed1ab_0
-  - black=23.1.0=py38h578d9bd_0
-  - boto3=1.26.101=pyhd8ed1ab_0
-  - botocore=1.29.101=pyhd8ed1ab_0
+  - black=23.3.0=py38h578d9bd_0
+  - boto3=1.26.103=pyhd8ed1ab_0
+  - botocore=1.29.103=pyhd8ed1ab_0
   - bowtie=1.3.1=py38he293eaa_3
   - bowtie2=2.4.5=py38hfbc8389_3
   - brotli=1.0.9=h166bdaf_8
@@ -111,7 +111,7 @@ dependencies:
   - drmaa=0.7.9=py_1000
   - entrypoints=0.4=pyhd8ed1ab_0
   - exceptiongroup=1.1.1=pyhd8ed1ab_0
-  - expat=2.5.0=h27087fc_0
+  - expat=2.5.0=hcb278e6_1
   - fastq-screen=0.15.2=pl5321hdfd78af_0
   - fastqc=0.12.1=hdfd78af_0
   - fftw=3.3.10=nompi_hf0379b8_106
@@ -142,10 +142,10 @@ dependencies:
   - glpk=5.0=h445213a_0
   - gmp=6.2.1=h58526e2_0
   - google-api-core=2.11.0=pyhd8ed1ab_0
-  - google-auth=2.17.0=pyh1a96a4e_0
+  - google-auth=2.17.1=pyh1a96a4e_0
   - google-cloud-core=2.3.2=pyhd8ed1ab_0
   - google-cloud-sdk=424.0.0=py38h578d9bd_0
-  - google-cloud-storage=2.7.0=pyh1a96a4e_0
+  - google-cloud-storage=2.8.0=pyh1a96a4e_0
   - google-crc32c=1.1.2=py38h57c428a_4
   - google-resumable-media=2.4.1=pyhd8ed1ab_0
   - googleapis-common-protos=1.57.1=pyhd8ed1ab_0
@@ -212,6 +212,7 @@ dependencies:
   - libedit=3.1.20191231=he28a2e2_2
   - libev=4.33=h516909a_1
   - libevent=2.1.10=h9b69904_4
+  - libexpat=2.5.0=hcb278e6_1
   - libffi=3.4.2=h7f98852_5
   - libflac=1.4.2=h27087fc_0
   - libgcc-devel_linux-64=12.2.0=h3b97bd3_19
@@ -249,7 +250,7 @@ dependencies:
   - libtiff=4.4.0=h0fcbabc_0
   - libtool=2.4.7=h27087fc_0
   - libudev1=253=h0b41bf4_0
-  - libuuid=2.32.1=h7f98852_1000
+  - libuuid=2.38.1=h0b41bf4_0
   - libuv=1.44.2=h166bdaf_0
   - libvorbis=1.3.7=h9c3ff4c_0
   - libwebp=1.2.4=h522a892_0
@@ -297,7 +298,7 @@ dependencies:
   - openjpeg=2.5.0=h7d73246_1
   - openssl=1.1.1t=h0b41bf4_0
   - packaging=23.0=pyhd8ed1ab_0
-  - pandas=1.5.3=py38hdc8b05c_0
+  - pandas=1.5.3=py38hdc8b05c_1
   - pandoc=2.19.2=h32600fe_2
   - pango=1.50.14=hd33c08f_0
   - papermill=2.3.4=pyhd8ed1ab_0
@@ -345,7 +346,7 @@ dependencies:
   - python-fastjsonschema=2.16.3=pyhd8ed1ab_0
   - python-igraph=0.10.4=py38hd98a34f_0
   - python_abi=3.8=3_cp38
-  - pytz=2023.2=pyhd8ed1ab_0
+  - pytz=2023.3=pyhd8ed1ab_0
   - pyu2f=0.1.5=pyhd8ed1ab_0
   - pyyaml=6.0=py38h0a891b7_5
   - pyzmq=25.0.2=py38he24dcef_0
@@ -444,6 +445,7 @@ dependencies:
   - r-graphlayouts=0.8.1=r40h7525677_0
   - r-gridextra=2.3=r40hc72bb7e_1003
   - r-gridgraphics=0.5_1=r40hc72bb7e_0
+  - r-grr=0.9.5=r40h03ef668_1004
   - r-gtable=0.3.1=r40hc72bb7e_0
   - r-gtools=3.9.3=r40h06615bd_0
   - r-harmony=0.1=r40h7d875b9_1
@@ -473,6 +475,7 @@ dependencies:
   - r-lattice=0.20_45=r40hcfec24a_0
   - r-lazyeval=0.2.2=r40hcfec24a_2
   - r-leiden=0.4.3=r40hc72bb7e_0
+  - r-leidenalg=1.0.4=r40h7525677_0
   - r-lifecycle=1.0.2=r40hc72bb7e_0
   - r-listenv=0.8.0=r40hc72bb7e_1
   - r-lmtest=0.9_40=r40h8da6f51_0
@@ -483,6 +486,7 @@ dependencies:
   - r-magrittr=2.0.3=r40h06615bd_0
   - r-mass=7.3_58.1=r40h06615bd_0
   - r-matrix=1.4_1=r40h0154571_0
+  - r-matrix.utils=0.9.8=r40hc72bb7e_1
   - r-matrixstats=0.62.0=r40h06615bd_0
   - r-mcmcprecision=0.4.0=r40h306847c_2
   - r-memoise=2.0.1=r40hc72bb7e_0
@@ -499,6 +503,7 @@ dependencies:
   - r-parallelly=1.32.1=r40hc72bb7e_0
   - r-patchwork=1.1.2=r40hc72bb7e_0
   - r-pbapply=1.5_0=r40hc72bb7e_0
+  - r-pbmcapply=1.5.1=r40h06615bd_0
   - r-pillar=1.8.1=r40hc72bb7e_0
   - r-pkgconfig=2.0.3=r40hc72bb7e_1
   - r-pkgload=1.3.0=r40hc72bb7e_0
@@ -555,6 +560,7 @@ dependencies:
   - r-sass=0.4.2=r40h7525677_0
   - r-scales=1.2.1=r40hc72bb7e_0
   - r-scattermore=0.8=r40h06615bd_0
+  - r-sccore=1.0.2=r40h7525677_0
   - r-sctransform=0.3.4=r40hef8c1a7_0
   - r-selectr=0.4_2=r40hc72bb7e_1
   - r-seurat=4.1.1=r40h7525677_0
@@ -692,10 +698,10 @@ dependencies:
   - zope.interface=6.0=py38h1de0b5d_0
   - zstd=1.5.2=h3eb15da_6
   - pip:
-      - certifi==2022.12.7
-      - loompy==3.0.7
-      - nbconvert==7.2.10
-      - ngs-tools==1.8.3
-      - plotly==5.13.1
-      - shortuuid==1.0.11
+    - certifi==2022.12.7
+    - loompy==3.0.7
+    - nbconvert==7.3.0
+    - ngs-tools==1.8.3
+    - plotly==5.14.0
+    - shortuuid==1.0.11
 prefix: /home/c/ccohen/conda/obds_conda/envs/scflow
