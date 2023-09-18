@@ -1,0 +1,18 @@
+name: cluster-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat
+  - r-clustree
+  - bioconductor-singlecellexperiment
+  - ca-certificates
+  - openssl
+  - bioconductor-scater
+  - bioconductor-celda
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cluster-env

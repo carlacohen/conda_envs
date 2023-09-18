@@ -1,0 +1,20 @@
+name: cgat-flow
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python[version='>=3.6']
+  - rpy2[version='<=2.9.4']
+  - tzlocal
+  - beautifulsoup4
+  - httplib2
+  - intermine
+  - mygene
+  - toposort
+  - nomkl
+  - cgatcore
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cgat-flow

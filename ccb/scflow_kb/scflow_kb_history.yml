@@ -1,4 +1,4 @@
-name: scflow
+name: scflow_kb
 channels:
   - bioconda
   - conda-forge
@@ -14,6 +14,7 @@ dependencies:
   - numpy
   - pandas
   - kallisto
+  - kb-python
   - multiqc
   - fastqc
   - fastq-screen
@@ -41,4 +42,4 @@ dependencies:
   - bioconductor-scuttle
   - r-harmony
   - r-seuratdisk
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_kb

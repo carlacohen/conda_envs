@@ -1,0 +1,17 @@
+name: scflow_quantnuclei_minimal_v2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - cgat-apps
+  - cgatcore
+  - pandas
+  - kb-python
+  - multiqc
+  - fastqc
+  - ruffus
+  - gevent=1.2.2
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei_minimal_v2

@@ -1,0 +1,12 @@
+name: scflow_fastqc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - cgat-apps
+  - cgatcore
+  - multiqc
+  - fastqc
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_fastqc
