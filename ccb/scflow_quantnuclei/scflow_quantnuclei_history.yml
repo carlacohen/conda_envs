@@ -1,0 +1,26 @@
+name: scflow_quantnuclei
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - cgat-apps
+  - cgatcore
+  - matplotlib
+  - mygene
+  - pytest
+  - nose
+  - numpy
+  - pandas
+  - kallisto
+  - multiqc
+  - fastqc
+  - fastq-screen
+  - pep8
+  - ruffus
+  - scipy
+  - setuptools
+  - statsmodels
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei

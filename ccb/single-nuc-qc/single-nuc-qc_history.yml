@@ -1,0 +1,20 @@
+name: single-nuc-qc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - bioconductor-busparse
+  - bioconductor-singlecellexperiment
+  - bioconductor-biomart
+  - bioconductor-scater
+  - r-seurat
+  - ca-certificates
+  - openssl
+  - bioconductor-dropletutils
+  - bioconductor-celda
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/single-nuc-qc

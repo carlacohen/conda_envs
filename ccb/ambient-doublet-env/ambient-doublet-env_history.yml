@@ -1,0 +1,20 @@
+name: ambient-doublet-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat
+  - bioconductor-busparse
+  - bioconductor-singlecellexperiment
+  - bioconductor-biomart
+  - bioconductor-scater
+  - bioconductor-celda
+  - bioconductor-dropletutils
+  - bioconductor-scdblfinder
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/ambient-doublet-env
