@@ -1,0 +1,21 @@
+name: pathway-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat
+  - r-seuratobject
+  - r-textshaping
+  - r-msigdbr
+  - bioconductor-clusterprofiler
+  - bioconductor-deseq2
+  - bioconductor-biocgenerics
+  - r-svglite
+  - ca-certificates
+  - openssl
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/pathway-env

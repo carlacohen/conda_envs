@@ -1,0 +1,19 @@
+name: milo-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat
+  - bioconductor-singlecellexperiment
+  - bioconductor-scater
+  - bioconductor-scran
+  - bioconductor-milor
+  - r-svglite
+  - ca-certificates
+  - openssl
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/milo-env

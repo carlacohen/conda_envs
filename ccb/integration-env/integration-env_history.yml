@@ -10,7 +10,6 @@ dependencies:
   - r-viridis
   - r-seurat
   - r-clustree
-  - r-harmony
   - r-sctransform
   - bioconductor-biocneighbors
   - ca-certificates
@@ -18,4 +17,10 @@ dependencies:
   - bioconductor-scry
   - r-lisi
   - r-rcpp=1.0.10
+  - bioconductor-glmgampoi
+  - bioconda::bioconductor-enhancedvolcano
+  - r-venndiagram
+  - r-svglite
+  - r-domc
+  - r-harmony=1.2.0
 prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/integration-env

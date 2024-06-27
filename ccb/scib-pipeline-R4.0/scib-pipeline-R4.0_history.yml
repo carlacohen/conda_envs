@@ -1,0 +1,39 @@
+name: scib-pipeline-R4.0
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - r-base=4.0
+  - rpy2
+  - pip
+  - snakemake[version='>=5']
+  - networkx
+  - icu
+  - graphviz
+  - gsl
+  - openblas
+  - llvmlite
+  - libgcc-ng
+  - gxx
+  - anndata[version='>=0.8']
+  - anndata2ri
+  - r-essentials
+  - r-devtools
+  - r-stringi
+  - bioconductor-scater
+  - bioconductor-scran
+  - scvi-tools=0.16.1
+  - scanorama=1.7.0
+  - bbknn=1.3.9
+  - r-seurat=3
+  - r-seuratobject
+  - r-spatstat=1.64
+  - louvain
+  - ca-certificates
+  - certifi
+  - openssl
+  - scanpy
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scib-pipeline-R4.0

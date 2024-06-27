@@ -1,0 +1,25 @@
+name: scVI-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scanpy
+  - anndata
+  - scvi
+  - scvi-tools
+  - seaborn
+  - matplotlib
+  - cuda
+  - nbconvert
+  - nb_conda_kernels
+  - ipykernel
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.7
+  - jax
+  - jaxlib
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scVI-env

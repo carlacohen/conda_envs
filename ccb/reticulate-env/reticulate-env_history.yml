@@ -1,0 +1,10 @@
+name: reticulate-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - leidenalg
+  - numpy
+  - pandas
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/reticulate-env

@@ -1,0 +1,27 @@
+name: scib-R4.0
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python[version='>=3.7']
+  - r-base=4.0
+  - r-essentials
+  - gsl
+  - r-optparse
+  - r-remotes
+  - r-devtools
+  - r-biocmanager
+  - r-cairo
+  - r-harmony
+  - r-seurat=3
+  - r-seuratobject
+  - bioconductor-multtest
+  - r-sdmtools
+  - r-stringi
+  - r-metap
+  - r-spatstat=1.64
+  - bioconductor-batchelor
+  - r-liger=0.5.0
+  - bioconductor-complexheatmap
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scib-R4.0
