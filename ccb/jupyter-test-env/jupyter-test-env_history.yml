@@ -1,0 +1,17 @@
+name: jupyter-test-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - anndata
+  - scanpy
+  - nbconvert
+  - nb_conda_kernels
+  - ipykernel
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/jupyter-test-env

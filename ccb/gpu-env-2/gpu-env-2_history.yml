@@ -1,0 +1,14 @@
+name: gpu-env-2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - scanpy
+  - scvi-tools
+  - matplotlib=3.7.0
+  - jax=0.2.16
+  - optax==0.1.2
+  - chex=0.1.2
+  - pip
+prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/gpu-env-2

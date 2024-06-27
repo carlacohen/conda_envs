@@ -30,8 +30,11 @@ dependencies:
   - ftputil
   - pysftp
   - apsw
-  - kallisto
+  - kallisto=0.48.0
   - samtools
   - multiqc
   - fastqc
+  - ca-certificates
+  - certifi
+  - openssl
 prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cribbslab

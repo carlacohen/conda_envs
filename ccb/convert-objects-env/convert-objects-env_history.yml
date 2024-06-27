@@ -1,0 +1,19 @@
+name: convert-objects-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - bioconductor-singlecellexperiment
+  - anndata
+  - r-reticulate
+  - ca-certificates
+  - openssl
+  - r-dplyr
+  - r-stringr
+  - r-tidyverse
+  - r-seurat=4.3.0.1
+  - r-seuratobject=4.1.4
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/convert-objects-env

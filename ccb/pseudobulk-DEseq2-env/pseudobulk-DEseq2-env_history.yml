@@ -1,0 +1,21 @@
+name: pseudobulk-DEseq2-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat=4.4.0
+  - r-pheatmap
+  - bioconductor-deseq2
+  - bioconductor-degreport=1.36.0
+  - bioconductor-enhancedvolcano
+  - bioconductor-apeglm
+  - ca-certificates
+  - openssl
+  - r-svglite
+prefix: 
+  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/pseudobulk-DEseq2-env
