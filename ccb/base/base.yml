@@ -1,110 +1,141 @@
 name: base
 channels:
-  - bioconda
   - conda-forge
   - defaults
+  - bioconda
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
-  - beautifulsoup4=4.12.2=pyha770c72_0
-  - boltons=23.0.0=pyhd8ed1ab_0
-  - brotli=1.0.9=h166bdaf_8
-  - brotli-bin=1.0.9=h166bdaf_8
+  - archspec=0.2.5=pyhd8ed1ab_0
+  - attrs=25.3.0=pyh71513ae_0
+  - beautifulsoup4=4.13.5=pyha770c72_0
+  - boltons=25.0.0=pyhd8ed1ab_0
+  - brotli=1.1.0=hb03c661_4
+  - brotli-bin=1.1.0=hb03c661_4
   - brotlipy=0.7.0=py310h5764c6d_1005
   - bzip2=1.0.8=h7f98852_4
   - c-ares=1.19.1=hd590300_0
-  - ca-certificates=2023.5.7=hbcca054_0
-  - certifi=2023.5.7=pyhd8ed1ab_0
+  - ca-certificates=2025.9.9=h06a4308_0
+  - certifi=2025.8.3=pyhd8ed1ab_0
   - cffi=1.15.1=py310h255011f_3
-  - chardet=5.1.0=py310hff52083_0
+  - chardet=5.2.0=pyhd8ed1ab_3
   - charset-normalizer=3.1.0=pyhd8ed1ab_0
-  - click=8.1.3=unix_pyhd8ed1ab_2
+  - click=8.3.0=pyh707e725_0
   - colorama=0.4.6=pyhd8ed1ab_0
-  - conda=23.5.0=py310hff52083_1
-  - conda-build=3.25.0=py310hff52083_0
-  - conda-index=0.2.3=pyhd8ed1ab_0
-  - conda-package-handling=2.0.2=pyh38be061_0
-  - conda-package-streaming=0.8.0=pyhd8ed1ab_0
+  - conda=25.7.0=py310hff52083_0
+  - conda-build=25.7.0=py310hff52083_0
+  - conda-index=0.6.1=pyhd8ed1ab_0
+  - conda-libmamba-solver=25.4.0=pyhd8ed1ab_0
+  - conda-package-handling=2.4.0=pyh7900ff3_2
+  - conda-package-streaming=0.12.0=pyhd8ed1ab_0
+  - cpp-expected=1.1.0=hff21bea_1
   - cryptography=41.0.1=py310h75e40e8_0
-  - filelock=3.12.2=pyhd8ed1ab_0
-  - fmt=9.1.0=h924138e_0
-  - glob2=0.7=py_0
-  - icu=72.1=hcb278e6_0
+  - distro=1.9.0=pyhd8ed1ab_1
+  - evalidate=2.0.5=pyhe01879c_0
+  - filelock=3.19.1=pyhd8ed1ab_0
+  - fmt=11.2.0=h07f6e7f_0
+  - frozendict=2.4.6=py310h7c4b9e2_1
+  - icu=73.2=h59595ed_0
   - idna=3.4=pyhd8ed1ab_0
-  - jinja2=3.1.2=pyhd8ed1ab_1
-  - jsonpatch=1.32=pyhd8ed1ab_0
-  - jsonpointer=2.0=py_0
+  - jinja2=3.1.6=pyhd8ed1ab_0
+  - jsonpatch=1.33=pyhd8ed1ab_1
+  - jsonpointer=3.0.0=py310hff52083_2
+  - jsonschema=4.25.1=pyhe01879c_0
+  - jsonschema-specifications=2025.9.1=pyhcf101f3_0
   - keyutils=1.6.1=h166bdaf_0
   - krb5=1.20.1=h81ceb04_0
   - ld_impl_linux-64=2.40=h41732ed_0
-  - libarchive=3.6.2=h039dbb9_1
-  - libbrotlicommon=1.0.9=h166bdaf_8
-  - libbrotlidec=1.0.9=h166bdaf_8
-  - libbrotlienc=1.0.9=h166bdaf_8
-  - libcurl=8.1.2=h409715c_0
+  - libarchive=3.8.1=h13d4d48_0
+  - libbrotlicommon=1.1.0=hb03c661_4
+  - libbrotlidec=1.1.0=hb03c661_4
+  - libbrotlienc=1.1.0=hb03c661_4
+  - libcurl=8.15.0=hc1efc7f_0
   - libedit=3.1.20191231=he28a2e2_2
   - libev=4.33=h516909a_1
+  - libexpat=2.7.1=hecca717_0
   - libffi=3.4.2=h7f98852_5
-  - libgcc-ng=13.1.0=he5830b7_0
-  - libgomp=13.1.0=he5830b7_0
+  - libgcc=15.1.0=h767d61c_5
+  - libgcc-ng=15.1.0=h69a702a_5
+  - libgomp=15.1.0=h767d61c_5
   - libiconv=1.17=h166bdaf_0
-  - liblief=0.12.3=h27087fc_0
-  - libmamba=1.4.4=h658169a_1
-  - libmambapy=1.4.4=py310h8aae740_1
-  - libnghttp2=1.52.0=h61bc06f_0
-  - libnsl=2.0.0=h7f98852_0
-  - libsolv=0.7.24=hfc55251_1
-  - libsqlite=3.42.0=h2797004_0
-  - libssh2=1.11.0=h0841786_0
+  - liblief=0.16.6=h5888daf_0
+  - liblzma=5.8.1=hb9d3cd8_2
+  - liblzma-devel=5.8.1=hb9d3cd8_2
+  - libmamba=2.3.2=hae34dd5_0
+  - libmambapy=2.3.2=py310hccbc6c6_0
+  - libnghttp2=1.57.0=h2d74bed_0
+  - libnsl=2.0.1=hb9d3cd8_1
+  - libsolv=0.7.35=h9463b59_0
+  - libsqlite=3.50.4=h0c1763c_0
+  - libssh2=1.11.1=hcf80075_0
+  - libstdcxx=15.1.0=h8f9b012_5
   - libstdcxx-ng=13.1.0=hfd8a6a1_0
   - libuuid=2.38.1=h0b41bf4_0
-  - libxml2=2.11.4=h0d562d8_0
-  - libzlib=1.2.13=hd590300_5
+  - libxcb=1.17.0=h8a09558_0
+  - libxcrypt=4.4.36=hd590300_1
+  - libxml2=2.13.8=hfdd30dd_0
+  - libzlib=1.3.1=hb9d3cd8_2
   - lz4-c=1.9.4=hcb278e6_0
   - lzo=2.10=h516909a_1000
-  - mamba=1.4.4=py310h51d5547_1
-  - markupsafe=2.1.3=py310h2372a71_0
-  - more-itertools=9.1.0=pyhd8ed1ab_0
-  - ncurses=6.4=hcb278e6_0
-  - openssl=3.1.1=hd590300_1
-  - packaging=23.1=pyhd8ed1ab_0
-  - patch=2.7.6=h7f98852_1002
-  - patchelf=0.18.0=h59595ed_0
+  - mamba=2.3.2=h441483a_0
+  - markupsafe=3.0.2=py310h89163eb_1
+  - mbedtls=3.6.3.1=h5888daf_0
+  - menuinst=2.3.1=py310hff52083_1
+  - msgpack-python=1.1.1=py310h03d9f68_1
+  - ncurses=6.5=h2d0b736_3
+  - nlohmann_json=3.11.3=he02047a_1
+  - openssl=3.5.3=h26f9b46_1
+  - packaging=25.0=pyh29332c3_1
+  - patch=2.8=hb03c661_1002
+  - patchelf=0.17.2=h58526e2_0
   - pip=23.1.2=pyhd8ed1ab_0
-  - pkginfo=1.9.6=pyhd8ed1ab_0
+  - pkginfo=1.12.1.2=pyhd8ed1ab_0
+  - platformdirs=4.4.0=pyhcf101f3_0
   - pluggy=1.2.0=pyhd8ed1ab_0
-  - psutil=5.9.5=py310h1fa729e_0
-  - py-lief=0.12.3=py310hd8f1fbe_0
+  - psutil=7.1.0=py310h7c4b9e2_0
+  - pthread-stubs=0.4=hb9d3cd8_1002
+  - py-lief=0.16.6=py310hf71b8c6_0
   - pybind11-abi=4=hd8ed1ab_3
   - pycosat=0.6.4=py310h5764c6d_1
   - pycparser=2.21=pyhd8ed1ab_0
   - pyopenssl=23.2.0=pyhd8ed1ab_1
   - pysocks=1.7.1=pyha2e5f31_6
-  - python=3.10.12=hd12c33a_0_cpython
-  - python-libarchive-c=4.0=py310hff52083_2
+  - python=3.10.18=hd6af730_0_cpython
+  - python-libarchive-c=5.3=pyhe01879c_1
   - python_abi=3.10=3_cp310
-  - pytz=2023.3=pyhd8ed1ab_0
-  - pyyaml=6.0=py310h5764c6d_5
+  - pytz=2025.2=pyhd8ed1ab_0
+  - pyyaml=6.0.2=py310h89163eb_2
   - readline=8.2=h8228510_1
+  - referencing=0.36.2=pyh29332c3_0
   - reproc=14.2.4=h0b41bf4_0
   - reproc-cpp=14.2.4=hcb278e6_0
   - requests=2.31.0=pyhd8ed1ab_0
-  - ripgrep=13.0.0=h2f28480_2
+  - ripgrep=14.1.1=h8fae777_1
+  - rpds-py=0.27.1=py310hd8f68c5_1
   - ruamel.yaml=0.17.32=py310h2372a71_0
   - ruamel.yaml.clib=0.2.7=py310h1fa729e_1
   - setuptools=68.0.0=pyhd8ed1ab_0
-  - six=1.16.0=pyh6c4a22f_0
-  - soupsieve=2.3.2.post1=pyhd8ed1ab_0
-  - tk=8.6.12=h27826a3_0
-  - tomli=2.0.1=pyhd8ed1ab_0
+  - simdjson=3.13.0=h84d6215_0
+  - soupsieve=2.8=pyhd8ed1ab_0
+  - tk=8.6.15=h54e0aa7_0
+  - tomli=2.2.1=pyhe01879c_2
   - toolz=0.12.0=pyhd8ed1ab_0
   - tqdm=4.65.0=pyhd8ed1ab_1
+  - truststore=0.10.3=pyhe01879c_0
+  - typing-extensions=4.15.0=h396c80c_0
+  - typing_extensions=4.15.0=pyhcf101f3_0
   - tzdata=2023c=h71feb2d_0
   - urllib3=2.0.3=pyhd8ed1ab_0
   - wheel=0.40.0=pyhd8ed1ab_0
-  - xz=5.2.6=h166bdaf_0
-  - yaml=0.2.5=h7f98852_2
-  - yaml-cpp=0.7.0=h27087fc_2
-  - zstandard=0.19.0=py310h1275a96_2
-  - zstd=1.5.2=h3eb15da_6
+  - xorg-libx11=1.8.12=h4f16b4b_0
+  - xorg-libxau=1.0.12=hb9d3cd8_0
+  - xorg-libxdmcp=1.1.5=hb9d3cd8_0
+  - xz=5.8.1=hbcc6ac9_2
+  - xz-gpl-tools=5.8.1=hbcc6ac9_2
+  - xz-tools=5.8.1=hb9d3cd8_2
+  - yaml=0.2.5=h280c20c_3
+  - yaml-cpp=0.8.0=h3f2d84a_0
+  - zlib=1.3.1=hb9d3cd8_2
+  - zstandard=0.25.0=py310h139afa4_0
+  - zstd=1.5.7=hb8e6e7a_2
 prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda

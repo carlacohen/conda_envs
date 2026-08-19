@@ -1,0 +1,23 @@
+name: rapids_singlecell
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - anndata=0.11
+  - scanpy=1.11
+  - leidenalg
+  - louvain
+  - zarr
+  - cuda-version=12
+  - rapids=24.6
+  - scikit-learn[version='<1.6']
+  - scipy[version='<1.15']
+  - dask
+  - dask-ml
+  - sparse
+  - harmonypy
+  - pytorch
+  - pip
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/rapids_singlecell

@@ -1,7 +1,7 @@
 name: convert-objects-env
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -342,5 +342,4 @@ dependencies:
   - zstd=1.5.5
   - pip:
       - anndata==0.10.7
-prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/convert-objects-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/convert-objects-env

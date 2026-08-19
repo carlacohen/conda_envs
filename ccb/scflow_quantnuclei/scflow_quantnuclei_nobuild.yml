@@ -1,7 +1,7 @@
 name: scflow_quantnuclei
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -345,5 +345,4 @@ dependencies:
       - traitlets==5.9.0
       - umap-learn==0.5.3
       - webencodings==0.5.1
-prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei

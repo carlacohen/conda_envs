@@ -1,0 +1,731 @@
+2025-10-21 08:19:17  (rev 0)
+    +_libgcc_mutex-0.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +_openmp_mutex-5.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +anndata-0.11.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +arpack-3.9.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +array-api-compat-1.12.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +asciitree-0.3.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +asttokens-3.0.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +aws-c-auth-0.9.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-cal-0.9.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +aws-c-common-0.12.4 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +aws-c-compression-0.3.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-event-stream-0.5.6 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-http-0.10.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-io-0.22.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-mqtt-0.13.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-s3-0.8.6 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-c-sdkutils-0.2.4 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +aws-checksums-0.2.7 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-crt-cpp-0.34.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +aws-sdk-cpp-1.11.606 (https://conda.anaconda.org/conda-forge/linux-64)
+    +azure-core-cpp-1.16.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +azure-identity-cpp-1.12.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +azure-storage-blobs-cpp-12.14.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +azure-storage-common-cpp-12.10.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +azure-storage-files-datalake-cpp-12.12.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +blas-2.137 (https://conda.anaconda.org/conda-forge/linux-64)
+    +blas-devel-3.9.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +bokeh-3.8.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +brotli-python-1.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +bzip2-1.0.8 (https://conda.anaconda.org/conda-forge/linux-64)
+    +c-ares-1.34.5 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +ca-certificates-2025.10.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +cached-property-2.0.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +certifi-2025.10.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +cffi-2.0.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +charset-normalizer-3.4.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +click-8.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +cloudpickle-3.1.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +colorama-0.4.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +comm-0.2.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +contourpy-1.3.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +cycler-0.12.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +cytoolz-1.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +dask-2025.10.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +dask-core-2025.10.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +dask-glm-0.3.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +dask-ml-2025.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +debugpy-1.8.17 (https://conda.anaconda.org/conda-forge/linux-64)
+    +decorator-5.2.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +deprecated-1.2.18 (https://conda.anaconda.org/conda-forge/noarch)
+    +distributed-2025.10.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +exceptiongroup-1.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +executing-2.2.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +fasteners-0.20 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +fonttools-4.60.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +freetype-2.14.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +fsspec-2025.9.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +gflags-2.2.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +glog-0.7.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +glpk-5.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +gmp-6.3.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +h2-4.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +h5py-3.15.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +hdf5-1.14.6 (https://conda.anaconda.org/conda-forge/linux-64)
+    +hpack-4.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +hyperframe-6.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +idna-3.11 (https://conda.anaconda.org/conda-forge/noarch)
+    +igraph-0.10.17 (https://conda.anaconda.org/conda-forge/linux-64)
+    +importlib-metadata-8.7.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +ipykernel-7.0.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +ipython-9.6.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +ipython_pygments_lexers-1.1.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +jedi-0.19.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +jinja2-3.1.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +joblib-1.5.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter_client-8.6.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter_core-5.9.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +kiwisolver-1.4.9 (https://conda.anaconda.org/conda-forge/linux-64)
+    +krb5-1.21.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +lcms2-2.17 (https://conda.anaconda.org/conda-forge/linux-64)
+    +ld_impl_linux-64-2.44 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +legacy-api-wrap-1.4.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +leidenalg-0.10.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +lerc-4.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libabseil-20250512.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libaec-1.1.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libarrow-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libarrow-acero-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libarrow-compute-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libarrow-dataset-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libarrow-substrait-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libblas-3.9.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libbrotlicommon-1.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libbrotlidec-1.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libbrotlienc-1.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libcblas-3.9.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libcrc32c-1.1.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +libcurl-8.16.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libdeflate-1.24 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libedit-3.1.20250104 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libev-4.33 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libevent-2.1.12 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libexpat-2.7.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libffi-3.4.6 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libfreetype-2.14.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libfreetype6-2.14.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgcc-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgcc-ng-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgfortran-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgfortran-ng-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgfortran5-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgomp-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgoogle-cloud-2.39.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgoogle-cloud-storage-2.39.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libgrpc-1.73.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libhwloc-2.12.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libiconv-1.18 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libjpeg-turbo-3.1.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +libkrb5-1.21.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +liblapack-3.9.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +liblapacke-3.9.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libleidenalg-0.11.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libllvm20-20.1.8 (https://conda.anaconda.org/conda-forge/linux-64)
+    +liblzma-5.8.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libnghttp2-1.67.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libnsl-2.0.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libopenblas-0.3.30 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libopentelemetry-cpp-1.21.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libopentelemetry-cpp-headers-1.21.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libparquet-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libpng-1.6.50 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libprotobuf-6.31.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libre2-11-2025.08.12 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libsodium-1.0.20 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +libsqlite-3.50.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libssh2-1.11.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libstdcxx-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libstdcxx-ng-15.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libthrift-0.22.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libtiff-4.7.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libutf8proc-2.11.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libuuid-2.41.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libwebp-base-1.6.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libxcb-1.17.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +libxcrypt-4.4.36 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libxml2-2.15.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libxml2-16-2.15.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libxml2-devel-2.15.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +libzlib-1.3.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +llvmlite-0.45.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +lmdb-0.9.31 (https://conda.anaconda.org/conda-forge/linux-64)
+    +locket-1.0.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +louvain-0.8.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +lz4-4.4.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +lz4-c-1.10.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +markupsafe-3.0.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +matplotlib-base-3.10.7 (https://conda.anaconda.org/conda-forge/linux-64)
+    +matplotlib-inline-0.1.7 (https://conda.anaconda.org/conda-forge/noarch)
+    +msgpack-python-1.1.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +multipledispatch-1.0.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +narwhals-2.9.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +natsort-8.4.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +ncurses-6.5 (https://conda.anaconda.org/conda-forge/linux-64)
+    +nest-asyncio-1.6.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +networkx-3.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +nlohmann_json-3.12.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +numba-0.62.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +numcodecs-0.15.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +numpy-2.3.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +numpy-base-2.3.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +openblas-0.3.30 (https://conda.anaconda.org/conda-forge/linux-64)
+    +openjpeg-2.5.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +openssl-3.5.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +orc-2.2.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +packaging-25.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +pandas-2.3.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +parso-0.8.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +partd-1.4.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +patsy-1.0.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +pexpect-4.9.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +pickleshare-0.7.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +pillow-11.3.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pip-25.2 (https://repo.anaconda.com/pkgs/main/noarch)
+    +platformdirs-4.5.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +prometheus-cpp-1.3.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +prompt-toolkit-3.0.52 (https://conda.anaconda.org/conda-forge/noarch)
+    +psutil-7.1.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pthread-stubs-0.4 (https://conda.anaconda.org/conda-forge/linux-64)
+    +ptyprocess-0.7.0 (https://repo.anaconda.com/pkgs/main/noarch)
+    +pure_eval-0.2.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +pyarrow-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pyarrow-core-21.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pycparser-2.23 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +pygments-2.19.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +pynndescent-0.5.13 (https://conda.anaconda.org/conda-forge/noarch)
+    +pyparsing-3.2.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +pysocks-1.7.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +python-3.11.14 (https://conda.anaconda.org/conda-forge/linux-64)
+    +python-dateutil-2.9.0post0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +python-igraph-0.11.9 (https://conda.anaconda.org/conda-forge/linux-64)
+    +python-tzdata-2025.2 (https://repo.anaconda.com/pkgs/main/noarch)
+    +python_abi-3.11 (https://conda.anaconda.org/conda-forge/noarch)
+    +pytz-2025.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +pyyaml-6.0.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pyzmq-27.1.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +qhull-2020.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +re2-2025.08.12 (https://conda.anaconda.org/conda-forge/linux-64)
+    +readline-8.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +requests-2.32.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +s2n-1.5.26 (https://conda.anaconda.org/conda-forge/linux-64)
+    +scanpy-1.11.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +scikit-learn-1.7.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +scipy-1.16.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +seaborn-0.13.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +session-info2-0.2.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +setuptools-80.9.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +six-1.17.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +snappy-1.2.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +sortedcontainers-2.4.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +sparse-0.17.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +stack_data-0.6.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +statsmodels-0.14.5 (https://conda.anaconda.org/conda-forge/linux-64)
+    +tbb-2022.2.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +tblib-3.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +texttable-1.7.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +threadpoolctl-3.6.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +tk-8.6.15 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +toolz-1.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +tornado-6.5.2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +tqdm-4.67.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +traitlets-5.14.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +typing-extensions-4.15.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +typing_extensions-4.15.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +tzdata-2025b (https://repo.anaconda.com/pkgs/main/noarch)
+    +umap-learn-0.5.9.post2 (https://conda.anaconda.org/conda-forge/linux-64)
+    +urllib3-2.5.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +wcwidth-0.2.14 (https://conda.anaconda.org/conda-forge/noarch)
+    +wheel-0.45.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +wrapt-1.17.3 (https://conda.anaconda.org/conda-forge/linux-64)
+    +xorg-libx11-1.8.12 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +xorg-libxau-1.0.12 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +xorg-libxdmcp-1.1.5 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +xorg-xorgproto-2024.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +xyzservices-2025.4.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +yaml-0.2.5 (https://conda.anaconda.org/conda-forge/linux-64)
+    +zarr-2.18.7 (https://conda.anaconda.org/conda-forge/noarch)
+    +zeromq-4.3.5 (https://conda.anaconda.org/conda-forge/linux-64)
+    +zict-3.0.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +zipp-3.23.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +zlib-1.3.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +zstandard-0.25.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +zstd-1.5.7 (https://conda.anaconda.org/conda-forge/linux-64)
+
+2025-11-24 13:42:23  (rev 1)
+     ipython  {9.6.0 (https://conda.anaconda.org/conda-forge/noarch) -> 8.21.0 (https://conda.anaconda.org/conda-forge/noarch)}
+     traitlets  {5.14.3 (https://conda.anaconda.org/conda-forge/noarch) -> 5.9.0 (https://conda.anaconda.org/conda-forge/noarch)}
+    +anyio-4.11.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +argon2-cffi-25.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +argon2-cffi-bindings-25.1.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +arrow-1.4.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +async-lru-2.0.5 (https://conda.anaconda.org/conda-forge/noarch)
+    +attrs-25.4.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +babel-2.17.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +beautifulsoup4-4.14.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +bleach-6.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +bleach-with-css-6.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +defusedxml-0.7.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +fqdn-1.5.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +gitdb-4.0.12 (https://conda.anaconda.org/conda-forge/noarch)
+    +gitpython-3.1.45 (https://conda.anaconda.org/conda-forge/noarch)
+    +h11-0.16.0 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +httpcore-1.0.9 (https://conda.anaconda.org/conda-forge/noarch)
+    +httpx-0.28.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +ipython_genutils-0.2.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +isoduration-20.11.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +json5-0.12.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +jsonpointer-3.0.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +jsonschema-4.25.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +jsonschema-specifications-2025.9.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +jsonschema-with-format-nongpl-4.25.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter-lsp-2.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter-server-mathjax-0.2.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter_events-0.12.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter_server-2.17.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyter_server_terminals-0.5.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyterlab-4.5.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyterlab_pygments-0.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +jupyterlab_server-2.28.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +lark-1.3.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +mistune-3.1.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +nb_conda-2.2.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +nb_conda_kernels-2.5.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +nbclassic-1.3.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbclient-0.10.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbconvert-7.16.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbconvert-core-7.16.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbconvert-pandoc-7.16.6 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbdime-4.0.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +nbformat-5.10.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +notebook-6.5.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +notebook-shim-0.2.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +overrides-7.7.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +pandoc-3.8.2.1 (https://conda.anaconda.org/conda-forge/linux-64)
+    +pandocfilters-1.5.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +prometheus_client-0.23.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +python-fastjsonschema-2.21.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +python-json-logger-3.2.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +referencing-0.37.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +rfc3339-validator-0.1.4 (https://conda.anaconda.org/conda-forge/noarch)
+    +rfc3986-validator-0.1.1 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +rfc3987-syntax-1.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +rpds-py-0.29.0 (https://conda.anaconda.org/conda-forge/linux-64)
+    +send2trash-1.8.3 (https://conda.anaconda.org/conda-forge/noarch)
+    +smmap-5.0.2 (https://conda.anaconda.org/conda-forge/noarch)
+    +sniffio-1.3.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +soupsieve-2.8 (https://conda.anaconda.org/conda-forge/noarch)
+    +terminado-0.18.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +tinycss2-1.5.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +tomli-2.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +typing_utils-0.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +uri-template-1.3.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +webcolors-25.10.0 (https://conda.anaconda.org/conda-forge/noarch)
+    +webencodings-0.5.1 (https://conda.anaconda.org/conda-forge/noarch)
+    +websocket-client-1.9.0 (https://conda.anaconda.org/conda-forge/noarch)
+
+2026-05-21 13:28:37  (rev 2)
+     _libgcc_mutex  {0.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.1 (conda-forge/linux-64)}
+     _openmp_mutex  {5.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 5.1 (defaults/linux-64)}
+     anndata  {0.11.4 (https://conda.anaconda.org/conda-forge/noarch) -> 0.11.4 (conda-forge/noarch)}
+     anyio  {4.11.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.11.0 (conda-forge/noarch)}
+     argon2-cffi  {25.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 25.1.0 (conda-forge/noarch)}
+     argon2-cffi-bindings  {25.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 25.1.0 (conda-forge/linux-64)}
+     arpack  {3.9.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.1 (conda-forge/linux-64)}
+     array-api-compat  {1.12.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.12.0 (conda-forge/noarch)}
+     arrow  {1.4.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.4.0 (conda-forge/noarch)}
+     asciitree  {0.3.3 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.3.3 (defaults/linux-64)}
+     asttokens  {3.0.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.0.0 (conda-forge/noarch)}
+     async-lru  {2.0.5 (https://conda.anaconda.org/conda-forge/noarch) -> 2.0.5 (conda-forge/noarch)}
+     attrs  {25.4.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 25.4.0 (defaults/linux-64)}
+     aws-c-auth  {0.9.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.9.1 (conda-forge/linux-64)}
+     aws-c-cal  {0.9.2 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.9.2 (defaults/linux-64)}
+     aws-c-common  {0.12.4 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.12.4 (defaults/linux-64)}
+     aws-c-compression  {0.3.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.3.1 (conda-forge/linux-64)}
+     aws-c-event-stream  {0.5.6 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.5.6 (conda-forge/linux-64)}
+     aws-c-http  {0.10.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.10.4 (conda-forge/linux-64)}
+     aws-c-io  {0.22.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.22.0 (conda-forge/linux-64)}
+     aws-c-mqtt  {0.13.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.13.3 (conda-forge/linux-64)}
+     aws-c-s3  {0.8.6 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.8.6 (conda-forge/linux-64)}
+     aws-c-sdkutils  {0.2.4 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.2.4 (defaults/linux-64)}
+     aws-checksums  {0.2.7 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.2.7 (conda-forge/linux-64)}
+     aws-crt-cpp  {0.34.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.34.4 (conda-forge/linux-64)}
+     aws-sdk-cpp  {1.11.606 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.11.606 (conda-forge/linux-64)}
+     azure-core-cpp  {1.16.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.16.0 (conda-forge/linux-64)}
+     azure-identity-cpp  {1.12.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.12.0 (conda-forge/linux-64)}
+     azure-storage-blobs-cpp  {12.14.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 12.14.0 (conda-forge/linux-64)}
+     azure-storage-common-cpp  {12.10.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 12.10.0 (conda-forge/linux-64)}
+     azure-storage-files-datalake-cpp  {12.12.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 12.12.0 (conda-forge/linux-64)}
+     babel  {2.17.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.17.0 (conda-forge/noarch)}
+     beautifulsoup4  {4.14.2 (https://conda.anaconda.org/conda-forge/noarch) -> 4.14.2 (conda-forge/noarch)}
+     blas  {2.137 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.137 (conda-forge/linux-64)}
+     blas-devel  {3.9.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.0 (conda-forge/linux-64)}
+     bleach  {6.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 6.3.0 (conda-forge/noarch)}
+     bleach-with-css  {6.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 6.3.0 (conda-forge/noarch)}
+     bokeh  {3.8.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.8.0 (conda-forge/noarch)}
+     brotli-python  {1.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.0 (conda-forge/linux-64)}
+     bzip2  {1.0.8 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.0.8 (conda-forge/linux-64)}
+     c-ares  {1.34.5 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.34.5 (defaults/linux-64)}
+     ca-certificates  {2025.10.5 (https://conda.anaconda.org/conda-forge/noarch) -> 2026.5.20 (conda-forge/noarch)}
+     cached-property  {2.0.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.0.1 (defaults/linux-64)}
+     certifi  {2025.10.5 (https://conda.anaconda.org/conda-forge/noarch) -> 2026.5.20 (conda-forge/noarch)}
+     cffi  {2.0.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.0.0 (defaults/linux-64)}
+     charset-normalizer  {3.4.4 (https://conda.anaconda.org/conda-forge/noarch) -> 3.4.4 (conda-forge/noarch)}
+     click  {8.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 8.3.0 (conda-forge/noarch)}
+     cloudpickle  {3.1.1 (https://conda.anaconda.org/conda-forge/noarch) -> 3.1.1 (conda-forge/noarch)}
+     colorama  {0.4.6 (https://conda.anaconda.org/conda-forge/noarch) -> 0.4.6 (conda-forge/noarch)}
+     comm  {0.2.3 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.3 (conda-forge/noarch)}
+     contourpy  {1.3.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.3.3 (conda-forge/linux-64)}
+     cycler  {0.12.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.12.1 (conda-forge/noarch)}
+     cytoolz  {1.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.0 (conda-forge/linux-64)}
+     dask  {2025.10.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2024.7.1 (conda-forge/noarch)}
+     dask-core  {2025.10.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2024.7.1 (conda-forge/noarch)}
+     dask-glm  {0.3.2 (https://conda.anaconda.org/conda-forge/noarch) -> 0.3.2 (conda-forge/noarch)}
+     debugpy  {1.8.17 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.8.17 (conda-forge/linux-64)}
+     decorator  {5.2.1 (https://conda.anaconda.org/conda-forge/noarch) -> 5.2.1 (conda-forge/noarch)}
+     defusedxml  {0.7.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.7.1 (conda-forge/noarch)}
+     deprecated  {1.2.18 (https://conda.anaconda.org/conda-forge/noarch) -> 1.2.18 (conda-forge/noarch)}
+     distributed  {2025.10.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2024.7.1 (conda-forge/noarch)}
+     exceptiongroup  {1.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.3.0 (conda-forge/noarch)}
+     executing  {2.2.1 (https://conda.anaconda.org/conda-forge/noarch) -> 2.2.1 (conda-forge/noarch)}
+     fasteners  {0.20 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.20 (defaults/linux-64)}
+     fonttools  {4.60.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 4.60.1 (defaults/linux-64)}
+     fqdn  {1.5.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.5.1 (conda-forge/noarch)}
+     freetype  {2.14.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.14.1 (conda-forge/linux-64)}
+     fsspec  {2025.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2025.9.0 (conda-forge/noarch)}
+     gflags  {2.2.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.2.2 (conda-forge/linux-64)}
+     gitdb  {4.0.12 (https://conda.anaconda.org/conda-forge/noarch) -> 4.0.12 (conda-forge/noarch)}
+     gitpython  {3.1.45 (https://conda.anaconda.org/conda-forge/noarch) -> 3.1.45 (conda-forge/noarch)}
+     glog  {0.7.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.7.1 (conda-forge/linux-64)}
+     glpk  {5.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 5.0 (conda-forge/linux-64)}
+     gmp  {6.3.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 6.3.0 (conda-forge/linux-64)}
+     h11  {0.16.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.16.0 (defaults/linux-64)}
+     h2  {4.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.3.0 (conda-forge/noarch)}
+     h5py  {3.15.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.15.1 (conda-forge/linux-64)}
+     hdf5  {1.14.6 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.14.6 (conda-forge/linux-64)}
+     hpack  {4.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.1.0 (conda-forge/noarch)}
+     httpcore  {1.0.9 (https://conda.anaconda.org/conda-forge/noarch) -> 1.0.9 (conda-forge/noarch)}
+     httpx  {0.28.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.28.1 (defaults/linux-64)}
+     hyperframe  {6.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 6.1.0 (conda-forge/noarch)}
+     idna  {3.11 (https://conda.anaconda.org/conda-forge/noarch) -> 3.11 (conda-forge/noarch)}
+     igraph  {0.10.17 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.10.17 (conda-forge/linux-64)}
+     importlib-metadata  {8.7.0 (https://conda.anaconda.org/conda-forge/noarch) -> 8.7.0 (conda-forge/noarch)}
+     ipykernel  {7.0.1 (https://conda.anaconda.org/conda-forge/noarch) -> 7.0.1 (conda-forge/noarch)}
+     ipython  {8.21.0 (https://conda.anaconda.org/conda-forge/noarch) -> 8.21.0 (conda-forge/noarch)}
+     ipython_genutils  {0.2.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.0 (conda-forge/noarch)}
+     ipython_pygments_lexers  {1.1.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.1.1 (conda-forge/noarch)}
+     isoduration  {20.11.0 (https://conda.anaconda.org/conda-forge/noarch) -> 20.11.0 (conda-forge/noarch)}
+     jedi  {0.19.2 (https://conda.anaconda.org/conda-forge/noarch) -> 0.19.2 (conda-forge/noarch)}
+     jinja2  {3.1.6 (https://conda.anaconda.org/conda-forge/noarch) -> 3.1.6 (conda-forge/noarch)}
+     joblib  {1.5.2 (https://conda.anaconda.org/conda-forge/noarch) -> 1.5.2 (conda-forge/noarch)}
+     json5  {0.12.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.12.1 (conda-forge/noarch)}
+     jsonpointer  {3.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.0.0 (conda-forge/linux-64)}
+     jsonschema  {4.25.1 (https://conda.anaconda.org/conda-forge/noarch) -> 4.25.1 (conda-forge/noarch)}
+     jsonschema-specifications  {2025.9.1 (https://conda.anaconda.org/conda-forge/noarch) -> 2025.9.1 (conda-forge/noarch)}
+     jsonschema-with-format-nongpl  {4.25.1 (https://conda.anaconda.org/conda-forge/noarch) -> 4.25.1 (conda-forge/noarch)}
+     jupyter-lsp  {2.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.3.0 (conda-forge/noarch)}
+     jupyter-server-mathjax  {0.2.6 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.6 (conda-forge/noarch)}
+     jupyter_client  {8.6.3 (https://conda.anaconda.org/conda-forge/noarch) -> 8.6.3 (conda-forge/noarch)}
+     jupyter_core  {5.9.1 (https://conda.anaconda.org/conda-forge/noarch) -> 5.9.1 (conda-forge/noarch)}
+     jupyter_events  {0.12.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.12.0 (conda-forge/noarch)}
+     jupyter_server  {2.17.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.17.0 (conda-forge/noarch)}
+     jupyter_server_terminals  {0.5.3 (https://conda.anaconda.org/conda-forge/noarch) -> 0.5.3 (conda-forge/noarch)}
+     jupyterlab  {4.5.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.5.0 (conda-forge/noarch)}
+     jupyterlab_pygments  {0.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.3.0 (conda-forge/noarch)}
+     jupyterlab_server  {2.28.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.28.0 (conda-forge/noarch)}
+     kiwisolver  {1.4.9 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.4.9 (conda-forge/linux-64)}
+     krb5  {1.21.3 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.21.3 (defaults/linux-64)}
+     lark  {1.3.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.3.1 (conda-forge/noarch)}
+     lcms2  {2.17 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.17 (conda-forge/linux-64)}
+     ld_impl_linux-64  {2.44 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.44 (defaults/linux-64)}
+     legacy-api-wrap  {1.4.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.4.1 (conda-forge/noarch)}
+     leidenalg  {0.10.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.10.2 (conda-forge/linux-64)}
+     lerc  {4.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.0.0 (conda-forge/linux-64)}
+     libabseil  {20250512.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 20250512.1 (conda-forge/linux-64)}
+     libaec  {1.1.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.4 (conda-forge/linux-64)}
+     libarrow  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-acero  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-compute  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-dataset  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-substrait  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libblas  {3.9.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.0 (conda-forge/linux-64)}
+     libbrotlicommon  {1.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.0 (conda-forge/linux-64)}
+     libbrotlidec  {1.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.0 (conda-forge/linux-64)}
+     libbrotlienc  {1.1.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.0 (conda-forge/linux-64)}
+     libcblas  {3.9.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.0 (conda-forge/linux-64)}
+     libcrc32c  {1.1.2 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.1.2 (defaults/linux-64)}
+     libcurl  {8.16.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 8.16.0 (conda-forge/linux-64)}
+     libdeflate  {1.24 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.24 (conda-forge/linux-64)}
+     libedit  {3.1.20250104 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.1.20250104 (conda-forge/linux-64)}
+     libev  {4.33 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.33 (conda-forge/linux-64)}
+     libevent  {2.1.12 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.1.12 (conda-forge/linux-64)}
+     libexpat  {2.7.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.7.1 (conda-forge/linux-64)}
+     libffi  {3.4.6 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.4.6 (conda-forge/linux-64)}
+     libfreetype  {2.14.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.14.1 (conda-forge/linux-64)}
+     libfreetype6  {2.14.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.14.1 (conda-forge/linux-64)}
+     libgcc  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgcc-ng  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgfortran  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgfortran-ng  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgfortran5  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgomp  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libgoogle-cloud  {2.39.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.39.0 (conda-forge/linux-64)}
+     libgoogle-cloud-storage  {2.39.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.39.0 (conda-forge/linux-64)}
+     libgrpc  {1.73.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.73.1 (conda-forge/linux-64)}
+     libhwloc  {2.12.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.12.1 (conda-forge/linux-64)}
+     libiconv  {1.18 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.18 (conda-forge/linux-64)}
+     libjpeg-turbo  {3.1.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 3.1.1 (defaults/linux-64)}
+     libkrb5  {1.21.3 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.21.3 (defaults/linux-64)}
+     liblapack  {3.9.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.0 (conda-forge/linux-64)}
+     liblapacke  {3.9.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.9.0 (conda-forge/linux-64)}
+     libleidenalg  {0.11.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.11.1 (conda-forge/linux-64)}
+     libllvm20  {20.1.8 (https://conda.anaconda.org/conda-forge/linux-64) -> 20.1.8 (conda-forge/linux-64)}
+     liblzma  {5.8.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 5.8.1 (conda-forge/linux-64)}
+     libnghttp2  {1.67.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.67.0 (conda-forge/linux-64)}
+     libnsl  {2.0.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.0.1 (conda-forge/linux-64)}
+     libopenblas  {0.3.30 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.3.30 (conda-forge/linux-64)}
+     libopentelemetry-cpp  {1.21.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.21.0 (conda-forge/linux-64)}
+     libopentelemetry-cpp-headers  {1.21.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.21.0 (conda-forge/linux-64)}
+     libparquet  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libpng  {1.6.50 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.6.50 (conda-forge/linux-64)}
+     libprotobuf  {6.31.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 6.31.1 (conda-forge/linux-64)}
+     libre2-11  {2025.08.12 (https://conda.anaconda.org/conda-forge/linux-64) -> 2025.08.12 (conda-forge/linux-64)}
+     libsodium  {1.0.20 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.0.20 (defaults/linux-64)}
+     libsqlite  {3.50.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.50.4 (conda-forge/linux-64)}
+     libssh2  {1.11.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.11.1 (conda-forge/linux-64)}
+     libstdcxx  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libstdcxx-ng  {15.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 15.2.0 (conda-forge/linux-64)}
+     libthrift  {0.22.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.22.0 (conda-forge/linux-64)}
+     libtiff  {4.7.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.7.1 (conda-forge/linux-64)}
+     libutf8proc  {2.11.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.11.0 (conda-forge/linux-64)}
+     libuuid  {2.41.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.41.2 (conda-forge/linux-64)}
+     libwebp-base  {1.6.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.6.0 (conda-forge/linux-64)}
+     libxcb  {1.17.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.17.0 (defaults/linux-64)}
+     libxcrypt  {4.4.36 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.4.36 (conda-forge/linux-64)}
+     libxml2  {2.15.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.15.1 (conda-forge/linux-64)}
+     libxml2-16  {2.15.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.15.1 (conda-forge/linux-64)}
+     libxml2-devel  {2.15.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.15.1 (conda-forge/linux-64)}
+     libzlib  {1.3.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.3.1 (conda-forge/linux-64)}
+     llvmlite  {0.45.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.45.1 (defaults/linux-64)}
+     lmdb  {0.9.31 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.9.31 (conda-forge/linux-64)}
+     locket  {1.0.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.0.0 (conda-forge/noarch)}
+     louvain  {0.8.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.8.2 (conda-forge/linux-64)}
+     lz4  {4.4.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.4.4 (conda-forge/linux-64)}
+     lz4-c  {1.10.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.10.0 (conda-forge/linux-64)}
+     markupsafe  {3.0.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.0.3 (conda-forge/linux-64)}
+     matplotlib-base  {3.10.7 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.10.7 (conda-forge/linux-64)}
+     matplotlib-inline  {0.1.7 (https://conda.anaconda.org/conda-forge/noarch) -> 0.1.7 (conda-forge/noarch)}
+     mistune  {3.1.4 (https://conda.anaconda.org/conda-forge/noarch) -> 3.1.4 (conda-forge/noarch)}
+     msgpack-python  {1.1.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.1.2 (conda-forge/linux-64)}
+     multipledispatch  {1.0.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.0.0 (defaults/linux-64)}
+     narwhals  {2.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.9.0 (conda-forge/noarch)}
+     natsort  {8.4.0 (https://conda.anaconda.org/conda-forge/noarch) -> 8.4.0 (conda-forge/noarch)}
+     nb_conda  {2.2.1 (https://conda.anaconda.org/conda-forge/noarch) -> 2.2.1 (conda-forge/noarch)}
+     nb_conda_kernels  {2.5.2 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.5.2 (defaults/linux-64)}
+     nbclassic  {1.3.3 (https://conda.anaconda.org/conda-forge/noarch) -> 1.3.3 (conda-forge/noarch)}
+     nbclient  {0.10.2 (https://conda.anaconda.org/conda-forge/noarch) -> 0.10.2 (conda-forge/noarch)}
+     nbconvert  {7.16.6 (https://conda.anaconda.org/conda-forge/noarch) -> 7.16.6 (conda-forge/noarch)}
+     nbconvert-core  {7.16.6 (https://conda.anaconda.org/conda-forge/noarch) -> 7.16.6 (conda-forge/noarch)}
+     nbconvert-pandoc  {7.16.6 (https://conda.anaconda.org/conda-forge/noarch) -> 7.16.6 (conda-forge/noarch)}
+     nbdime  {4.0.2 (https://conda.anaconda.org/conda-forge/noarch) -> 4.0.2 (conda-forge/noarch)}
+     nbformat  {5.10.4 (https://conda.anaconda.org/conda-forge/noarch) -> 5.10.4 (conda-forge/noarch)}
+     ncurses  {6.5 (https://conda.anaconda.org/conda-forge/linux-64) -> 6.5 (conda-forge/linux-64)}
+     nest-asyncio  {1.6.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.6.0 (conda-forge/noarch)}
+     networkx  {3.5 (https://conda.anaconda.org/conda-forge/noarch) -> 3.5 (conda-forge/noarch)}
+     nlohmann_json  {3.12.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.12.0 (conda-forge/linux-64)}
+     notebook  {6.5.4 (https://conda.anaconda.org/conda-forge/noarch) -> 6.5.4 (conda-forge/noarch)}
+     notebook-shim  {0.2.4 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.4 (conda-forge/noarch)}
+     numba  {0.62.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.62.1 (defaults/linux-64)}
+     numcodecs  {0.15.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.15.1 (conda-forge/linux-64)}
+     numpy  {2.3.3 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.3.3 (defaults/linux-64)}
+     openblas  {0.3.30 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.3.30 (conda-forge/linux-64)}
+     openjpeg  {2.5.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.5.4 (conda-forge/linux-64)}
+     openssl  {3.5.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.6.2 (conda-forge/linux-64)}
+     orc  {2.2.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 2.2.1 (conda-forge/linux-64)}
+     overrides  {7.7.0 (https://conda.anaconda.org/conda-forge/noarch) -> 7.7.0 (conda-forge/noarch)}
+     packaging  {25.0 (https://conda.anaconda.org/conda-forge/noarch) -> 25.0 (conda-forge/noarch)}
+     pandas  {2.3.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.0.3 (conda-forge/linux-64)}
+     pandoc  {3.8.2.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.8.2.1 (conda-forge/linux-64)}
+     pandocfilters  {1.5.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.5.1 (defaults/linux-64)}
+     parso  {0.8.5 (https://conda.anaconda.org/conda-forge/noarch) -> 0.8.5 (conda-forge/noarch)}
+     partd  {1.4.2 (https://conda.anaconda.org/conda-forge/noarch) -> 1.4.2 (conda-forge/noarch)}
+     patsy  {1.0.2 (https://conda.anaconda.org/conda-forge/noarch) -> 1.0.2 (conda-forge/noarch)}
+     pexpect  {4.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.9.0 (conda-forge/noarch)}
+     pickleshare  {0.7.5 (https://conda.anaconda.org/conda-forge/noarch) -> 0.7.5 (conda-forge/noarch)}
+     pillow  {11.3.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 11.3.0 (conda-forge/linux-64)}
+     pip  {25.2 (https://repo.anaconda.com/pkgs/main/noarch) -> 25.2 (defaults/noarch)}
+     platformdirs  {4.5.0 (https://conda.anaconda.org/conda-forge/noarch) -> 4.5.0 (conda-forge/noarch)}
+     prometheus-cpp  {1.3.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.3.0 (conda-forge/linux-64)}
+     prometheus_client  {0.23.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.23.1 (conda-forge/noarch)}
+     prompt-toolkit  {3.0.52 (https://conda.anaconda.org/conda-forge/noarch) -> 3.0.52 (conda-forge/noarch)}
+     psutil  {7.1.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 7.1.1 (conda-forge/linux-64)}
+     pthread-stubs  {0.4 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.4 (conda-forge/linux-64)}
+     ptyprocess  {0.7.0 (https://repo.anaconda.com/pkgs/main/noarch) -> 0.7.0 (defaults/noarch)}
+     pure_eval  {0.2.3 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.3 (conda-forge/noarch)}
+     pyarrow  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     pyarrow-core  {21.0.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     pycparser  {2.23 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.23 (defaults/linux-64)}
+     pygments  {2.19.2 (https://conda.anaconda.org/conda-forge/noarch) -> 2.19.2 (conda-forge/noarch)}
+     pynndescent  {0.5.13 (https://conda.anaconda.org/conda-forge/noarch) -> 0.5.13 (conda-forge/noarch)}
+     pyparsing  {3.2.5 (https://conda.anaconda.org/conda-forge/noarch) -> 3.2.5 (conda-forge/noarch)}
+     pysocks  {1.7.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.7.1 (conda-forge/noarch)}
+     python  {3.11.14 (https://conda.anaconda.org/conda-forge/linux-64) -> 3.11.14 (conda-forge/linux-64)}
+     python-dateutil  {2.9.0post0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2.9.0post0 (defaults/linux-64)}
+     python-fastjsonschema  {2.21.2 (https://conda.anaconda.org/conda-forge/noarch) -> 2.21.2 (conda-forge/noarch)}
+     python-igraph  {0.11.9 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.11.9 (conda-forge/linux-64)}
+     python-json-logger  {3.2.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 3.2.1 (defaults/linux-64)}
+     python-tzdata  {2025.2 (https://repo.anaconda.com/pkgs/main/noarch) -> 2025.2 (defaults/noarch)}
+     python_abi  {3.11 (https://conda.anaconda.org/conda-forge/noarch) -> 3.11 (conda-forge/noarch)}
+     pytz  {2025.2 (https://conda.anaconda.org/conda-forge/noarch) -> 2025.2 (conda-forge/noarch)}
+     pyyaml  {6.0.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 6.0.3 (conda-forge/linux-64)}
+     pyzmq  {27.1.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 27.1.0 (defaults/linux-64)}
+     qhull  {2020.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 2020.2 (conda-forge/linux-64)}
+     re2  {2025.08.12 (https://conda.anaconda.org/conda-forge/linux-64) -> 2025.08.12 (conda-forge/linux-64)}
+     readline  {8.3 (https://repo.anaconda.com/pkgs/main/linux-64) -> 8.3 (defaults/linux-64)}
+     referencing  {0.37.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.37.0 (conda-forge/noarch)}
+     requests  {2.32.5 (https://conda.anaconda.org/conda-forge/noarch) -> 2.32.5 (conda-forge/noarch)}
+     rfc3339-validator  {0.1.4 (https://conda.anaconda.org/conda-forge/noarch) -> 0.1.4 (conda-forge/noarch)}
+     rfc3986-validator  {0.1.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.1.1 (defaults/linux-64)}
+     rfc3987-syntax  {1.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.1.0 (conda-forge/noarch)}
+     rpds-py  {0.29.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.29.0 (conda-forge/linux-64)}
+     s2n  {1.5.26 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.5.26 (conda-forge/linux-64)}
+     scanpy  {1.11.4 (https://conda.anaconda.org/conda-forge/noarch) -> 1.11.4 (conda-forge/noarch)}
+     scikit-learn  {1.7.2 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.7.2 (defaults/linux-64)}
+     seaborn  {0.13.2 (https://repo.anaconda.com/pkgs/main/linux-64) -> 0.13.2 (defaults/linux-64)}
+     send2trash  {1.8.3 (https://conda.anaconda.org/conda-forge/noarch) -> 1.8.3 (conda-forge/noarch)}
+     session-info2  {0.2.3 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.3 (conda-forge/noarch)}
+     setuptools  {80.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 80.9.0 (conda-forge/noarch)}
+     six  {1.17.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.17.0 (conda-forge/noarch)}
+     smmap  {5.0.2 (https://conda.anaconda.org/conda-forge/noarch) -> 5.0.2 (conda-forge/noarch)}
+     snappy  {1.2.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.2.2 (conda-forge/linux-64)}
+     sniffio  {1.3.1 (https://conda.anaconda.org/conda-forge/noarch) -> 1.3.1 (conda-forge/noarch)}
+     sortedcontainers  {2.4.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.4.0 (conda-forge/noarch)}
+     soupsieve  {2.8 (https://conda.anaconda.org/conda-forge/noarch) -> 2.8 (conda-forge/noarch)}
+     sparse  {0.17.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.17.0 (conda-forge/noarch)}
+     stack_data  {0.6.3 (https://conda.anaconda.org/conda-forge/noarch) -> 0.6.3 (conda-forge/noarch)}
+     statsmodels  {0.14.5 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.14.5 (conda-forge/linux-64)}
+     tbb  {2022.2.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 2022.2.0 (conda-forge/linux-64)}
+     tblib  {3.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.1.0 (conda-forge/noarch)}
+     terminado  {0.18.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.18.1 (conda-forge/noarch)}
+     texttable  {1.7.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.7.0 (conda-forge/noarch)}
+     threadpoolctl  {3.6.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.6.0 (conda-forge/noarch)}
+     tinycss2  {1.5.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.5.0 (conda-forge/noarch)}
+     tk  {8.6.15 (https://repo.anaconda.com/pkgs/main/linux-64) -> 8.6.15 (defaults/linux-64)}
+     tomli  {2.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.3.0 (conda-forge/noarch)}
+     toolz  {1.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.1.0 (conda-forge/noarch)}
+     tornado  {6.5.2 (https://conda.anaconda.org/conda-forge/linux-64) -> 6.5.2 (conda-forge/linux-64)}
+     tqdm  {4.67.1 (https://conda.anaconda.org/conda-forge/noarch) -> 4.67.1 (conda-forge/noarch)}
+     traitlets  {5.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 5.9.0 (conda-forge/noarch)}
+     typing-extensions  {4.15.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 4.15.0 (defaults/linux-64)}
+     typing_extensions  {4.15.0 (https://repo.anaconda.com/pkgs/main/linux-64) -> 4.15.0 (defaults/linux-64)}
+     typing_utils  {0.1.0 (https://conda.anaconda.org/conda-forge/noarch) -> 0.1.0 (conda-forge/noarch)}
+     tzdata  {2025b (https://repo.anaconda.com/pkgs/main/noarch) -> 2025b (defaults/noarch)}
+     umap-learn  {0.5.9.post2 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.5.9.post2 (conda-forge/linux-64)}
+     uri-template  {1.3.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.3.0 (conda-forge/noarch)}
+     urllib3  {2.5.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2.5.0 (conda-forge/noarch)}
+     wcwidth  {0.2.14 (https://conda.anaconda.org/conda-forge/noarch) -> 0.2.14 (conda-forge/noarch)}
+     webcolors  {25.10.0 (https://conda.anaconda.org/conda-forge/noarch) -> 25.10.0 (conda-forge/noarch)}
+     webencodings  {0.5.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.5.1 (conda-forge/noarch)}
+     websocket-client  {1.9.0 (https://conda.anaconda.org/conda-forge/noarch) -> 1.9.0 (conda-forge/noarch)}
+     wheel  {0.45.1 (https://conda.anaconda.org/conda-forge/noarch) -> 0.45.1 (conda-forge/noarch)}
+     wrapt  {1.17.3 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.17.3 (conda-forge/linux-64)}
+     xorg-libx11  {1.8.12 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.8.12 (defaults/linux-64)}
+     xorg-libxau  {1.0.12 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.0.12 (defaults/linux-64)}
+     xorg-libxdmcp  {1.1.5 (https://repo.anaconda.com/pkgs/main/linux-64) -> 1.1.5 (defaults/linux-64)}
+     xorg-xorgproto  {2024.1 (https://repo.anaconda.com/pkgs/main/linux-64) -> 2024.1 (defaults/linux-64)}
+     xyzservices  {2025.4.0 (https://conda.anaconda.org/conda-forge/noarch) -> 2025.4.0 (conda-forge/noarch)}
+     yaml  {0.2.5 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.2.5 (conda-forge/linux-64)}
+     zarr  {2.18.7 (https://conda.anaconda.org/conda-forge/noarch) -> 2.18.7 (conda-forge/noarch)}
+     zeromq  {4.3.5 (https://conda.anaconda.org/conda-forge/linux-64) -> 4.3.5 (conda-forge/linux-64)}
+     zict  {3.0.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.0.0 (conda-forge/noarch)}
+     zipp  {3.23.0 (https://conda.anaconda.org/conda-forge/noarch) -> 3.23.0 (conda-forge/noarch)}
+     zlib  {1.3.1 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.3.1 (conda-forge/linux-64)}
+     zstandard  {0.25.0 (https://conda.anaconda.org/conda-forge/linux-64) -> 0.25.0 (conda-forge/linux-64)}
+     zstd  {1.5.7 (https://conda.anaconda.org/conda-forge/linux-64) -> 1.5.7 (conda-forge/linux-64)}
+    -dask-ml-2025.1.0 (https://conda.anaconda.org/conda-forge/noarch)
+    -numpy-base-2.3.3 (https://repo.anaconda.com/pkgs/main/linux-64)
+    -scipy-1.16.2 (https://repo.anaconda.com/pkgs/main/linux-64)
+    +dask-expr-1.1.9 (conda-forge/noarch)
+    +importlib_metadata-8.7.0 (conda-forge/noarch)
+    +pyarrow-hotfix-0.7 (conda-forge/noarch)
+
+2026-05-21 14:01:03  (rev 3)
+     aws-c-auth  {0.9.1 (conda-forge/linux-64) -> 0.9.6 (conda-forge/linux-64)}
+     aws-c-cal  {0.9.2 (defaults/linux-64) -> 0.9.13 (conda-forge/linux-64)}
+     aws-c-common  {0.12.4 (defaults/linux-64) -> 0.12.6 (conda-forge/linux-64)}
+     aws-c-compression  {0.3.1 (conda-forge/linux-64) -> 0.3.2 (conda-forge/linux-64)}
+     aws-c-event-stream  {0.5.6 (conda-forge/linux-64) -> 0.5.9 (conda-forge/linux-64)}
+     aws-c-http  {0.10.4 (conda-forge/linux-64) -> 0.10.10 (conda-forge/linux-64)}
+     aws-c-io  {0.22.0 (conda-forge/linux-64) -> 0.26.1 (conda-forge/linux-64)}
+     aws-c-mqtt  {0.13.3 (conda-forge/linux-64) -> 0.14.0 (conda-forge/linux-64)}
+     aws-c-s3  {0.8.6 (conda-forge/linux-64) -> 0.11.5 (conda-forge/linux-64)}
+     aws-c-sdkutils  {0.2.4 (defaults/linux-64) -> 0.2.4 (conda-forge/linux-64)}
+     aws-checksums  {0.2.7 (conda-forge/linux-64) -> 0.2.10 (conda-forge/linux-64)}
+     aws-crt-cpp  {0.34.4 (conda-forge/linux-64) -> 0.37.3 (conda-forge/linux-64)}
+     aws-sdk-cpp  {1.11.606 (conda-forge/linux-64) -> 1.11.747 (conda-forge/linux-64)}
+     azure-core-cpp  {1.16.0 (conda-forge/linux-64) -> 1.16.2 (conda-forge/linux-64)}
+     azure-identity-cpp  {1.12.0 (conda-forge/linux-64) -> 1.13.3 (conda-forge/linux-64)}
+     azure-storage-blobs-cpp  {12.14.0 (conda-forge/linux-64) -> 12.16.0 (conda-forge/linux-64)}
+     azure-storage-common-cpp  {12.10.0 (conda-forge/linux-64) -> 12.13.0 (conda-forge/linux-64)}
+     azure-storage-files-datalake-cpp  {12.12.0 (conda-forge/linux-64) -> 12.14.0 (conda-forge/linux-64)}
+     blas  {2.137 (conda-forge/linux-64) -> 2.307 (conda-forge/linux-64)}
+     blas-devel  {3.9.0 (conda-forge/linux-64) -> 3.11.0 (conda-forge/linux-64)}
+     brotli-python  {1.1.0 (conda-forge/linux-64) -> 1.2.0 (conda-forge/linux-64)}
+     libabseil  {20250512.1 (conda-forge/linux-64) -> 20260107.1 (conda-forge/linux-64)}
+     libarrow  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-acero  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-compute  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-dataset  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libarrow-substrait  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libblas  {3.9.0 (conda-forge/linux-64) -> 3.11.0 (conda-forge/linux-64)}
+     libbrotlicommon  {1.1.0 (conda-forge/linux-64) -> 1.2.0 (conda-forge/linux-64)}
+     libbrotlidec  {1.1.0 (conda-forge/linux-64) -> 1.2.0 (conda-forge/linux-64)}
+     libbrotlienc  {1.1.0 (conda-forge/linux-64) -> 1.2.0 (conda-forge/linux-64)}
+     libcblas  {3.9.0 (conda-forge/linux-64) -> 3.11.0 (conda-forge/linux-64)}
+     libcurl  {8.16.0 (conda-forge/linux-64) -> 8.18.0 (conda-forge/linux-64)}
+     libexpat  {2.7.1 (conda-forge/linux-64) -> 2.8.1 (conda-forge/linux-64)}
+     libffi  {3.4.6 (conda-forge/linux-64) -> 3.5.2 (conda-forge/linux-64)}
+     libgoogle-cloud  {2.39.0 (conda-forge/linux-64) -> 2.39.0 (conda-forge/linux-64)}
+     libgoogle-cloud-storage  {2.39.0 (conda-forge/linux-64) -> 2.39.0 (conda-forge/linux-64)}
+     libgrpc  {1.73.1 (conda-forge/linux-64) -> 1.78.0 (defaults/linux-64)}
+     liblapack  {3.9.0 (conda-forge/linux-64) -> 3.11.0 (conda-forge/linux-64)}
+     liblapacke  {3.9.0 (conda-forge/linux-64) -> 3.11.0 (conda-forge/linux-64)}
+     liblzma  {5.8.1 (conda-forge/linux-64) -> 5.8.3 (conda-forge/linux-64)}
+     libopenblas  {0.3.30 (conda-forge/linux-64) -> 0.3.33 (conda-forge/linux-64)}
+     libopentelemetry-cpp  {1.21.0 (conda-forge/linux-64) -> 1.21.0 (conda-forge/linux-64)}
+     libopentelemetry-cpp-headers  {1.21.0 (conda-forge/linux-64) -> 1.21.0 (conda-forge/linux-64)}
+     libparquet  {21.0.0 (conda-forge/linux-64) -> 21.0.0 (conda-forge/linux-64)}
+     libprotobuf  {6.31.1 (conda-forge/linux-64) -> 6.33.5 (conda-forge/linux-64)}
+     libre2-11  {2025.08.12 (conda-forge/linux-64) -> 2025.11.05 (conda-forge/linux-64)}
+     libsqlite  {3.50.4 (conda-forge/linux-64) -> 3.52.0 (conda-forge/linux-64)}
+     libutf8proc  {2.11.0 (conda-forge/linux-64) -> 2.11.3 (conda-forge/linux-64)}
+     libuuid  {2.41.2 (conda-forge/linux-64) -> 2.42.1 (conda-forge/linux-64)}
+     openblas  {0.3.30 (conda-forge/linux-64) -> 0.3.33 (conda-forge/linux-64)}
+     orc  {2.2.1 (conda-forge/linux-64) -> 2.3.0 (conda-forge/linux-64)}
+     pandas  {3.0.3 (conda-forge/linux-64) -> 2.3.3 (conda-forge/linux-64)}
+     python  {3.11.14 (conda-forge/linux-64) -> 3.11.15 (conda-forge/linux-64)}
+     re2  {2025.08.12 (conda-forge/linux-64) -> 2025.11.05 (conda-forge/linux-64)}
+     s2n  {1.5.26 (conda-forge/linux-64) -> 1.7.1 (conda-forge/linux-64)}
+     scanpy  {1.11.4 (conda-forge/noarch) -> 1.11.5 (conda-forge/noarch)}
+     scikit-learn  {1.7.2 (defaults/linux-64) -> 1.5.2 (conda-forge/linux-64)}
+     sparse  {0.17.0 (conda-forge/noarch) -> 0.18.0 (conda-forge/noarch)}
+    +cpython-3.11.15 (conda-forge/noarch)
+    +dask-ml-2024.4.4 (conda-forge/noarch)
+    +filelock-3.29.0 (conda-forge/noarch)
+    +fmt-12.1.0 (conda-forge/linux-64)
+    +gmpy2-2.3.0 (conda-forge/linux-64)
+    +harmony-pytorch-0.1.8 (bioconda/noarch)
+    +harmonypy-0.2.0 (bioconda/noarch)
+    +libtorch-2.11.0 (defaults/linux-64)
+    +libuv-1.52.0 (defaults/linux-64)
+    +mpc-1.4.0 (conda-forge/linux-64)
+    +mpfr-4.2.2 (conda-forge/linux-64)
+    +mpmath-1.4.1 (conda-forge/noarch)
+    +nomkl-3.0 (defaults/linux-64)
+    +optree-0.19.1 (conda-forge/linux-64)
+    +pybind11-abi-4 (conda-forge/noarch)
+    +pytorch-2.11.0 (defaults/linux-64)
+    +scipy-1.16.3 (conda-forge/linux-64)
+    +sleef-3.9.0 (conda-forge/linux-64)
+    +sympy-1.14.0 (conda-forge/noarch)
+

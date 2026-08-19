@@ -1,0 +1,8 @@
+name: hca-validator
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.0
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/hca-validator

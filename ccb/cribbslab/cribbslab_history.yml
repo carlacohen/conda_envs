@@ -37,4 +37,4 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cribbslab
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/cribbslab

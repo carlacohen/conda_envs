@@ -1,10 +1,10 @@
 name: scVI-env
 channels:
-  - pytorch
-  - nvidia
-  - bioconda
   - conda-forge
   - defaults
+  - nvidia
+  - pytorch
+  - bioconda
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
@@ -350,4 +350,4 @@ dependencies:
   - zstd=1.5.5=hc292b87_0
   - pip:
       - scikit-misc==0.3.1
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scVI-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scVI-env

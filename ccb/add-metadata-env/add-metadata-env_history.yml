@@ -1,0 +1,14 @@
+name: add-metadata-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - gzip
+  - scipy
+  - nb_conda_kernels
+  - r-distutils
+  - python=3.11.14
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/add-metadata-env

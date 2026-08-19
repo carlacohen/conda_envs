@@ -1,0 +1,24 @@
+name: liana-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-seurat=4.4.0
+  - r-seuratobject=4.1.4
+  - r-circlize
+  - bioconductor-omnipathr
+  - bioconductor-singlecellexperiment
+  - bioconductor-scran
+  - bioconductor-scater
+  - bioconductor-scuttle
+  - ca-certificates
+  - openssl
+  - bioconductor-clusterprofiler
+  - qpdf
+  - r-leidenbase
+  - zlib
+  - bioconductor-enhancedvolcano
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/liana-env

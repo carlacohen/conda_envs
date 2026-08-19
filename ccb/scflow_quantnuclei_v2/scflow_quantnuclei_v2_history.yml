@@ -23,5 +23,4 @@ dependencies:
   - scipy
   - setuptools
   - statsmodels
-prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei_v2
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei_v2

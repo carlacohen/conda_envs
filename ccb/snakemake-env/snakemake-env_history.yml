@@ -1,0 +1,9 @@
+name: snakemake-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - snakemake
+  - snakemake-executor-plugin-slurm
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/snakemake-env

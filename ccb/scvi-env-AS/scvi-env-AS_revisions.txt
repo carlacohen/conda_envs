@@ -214,3 +214,10 @@
     +gcc_linux-64-12.3.0 (conda-forge/linux-64)
     +gxx_linux-64-12.3.0 (conda-forge/linux-64)
 
+2024-07-03 14:15:14  (rev 2)
+     ca-certificates  {2024.2.2 (conda-forge/linux-64) -> 2024.6.2 (conda-forge/linux-64)}
+     openssl  {3.2.1 (conda-forge/linux-64) -> 3.3.1 (conda-forge/linux-64)}
+    +mpi-1.0 (conda-forge/linux-64)
+    +openmpi-4.1.6 (conda-forge/linux-64)
+    +ray-2.3.1 (bioconda/linux-64)
+

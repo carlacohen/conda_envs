@@ -17,5 +17,4 @@ dependencies:
   - ca-certificates
   - openssl
   - r-svglite
-prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/pseudobulk-DEseq2-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/pseudobulk-DEseq2-env

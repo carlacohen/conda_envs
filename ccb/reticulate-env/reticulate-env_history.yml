@@ -6,5 +6,4 @@ channels:
 dependencies:
   - leidenalg
   - numpy
-  - pandas
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/reticulate-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/reticulate-env

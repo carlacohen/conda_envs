@@ -1,0 +1,17 @@
+name: snakemake-tutorial
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - snakemake-minimal[version='>=9.7.1']
+  - jinja2
+  - matplotlib
+  - graphviz
+  - samtools[version='>=1.19']
+  - bwa~=0.7.17
+  - pygments
+  - pysam=0.22
+  - bcftools
+  - gsl=2.5
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/snakemake-tutorial

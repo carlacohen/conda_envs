@@ -13,7 +13,7 @@ dependencies:
   - nose
   - numpy
   - pandas
-  - kallisto
+  - kallisto=0.48.0
   - multiqc
   - fastqc
   - fastq-screen
@@ -39,6 +39,8 @@ dependencies:
   - bioconductor-singlecellexperiment
   - bioconductor-biomart
   - bioconductor-scuttle
+  - bioconductor-glmgampoi
   - r-harmony
   - r-seuratdisk
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow
+  - r-clustree
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow

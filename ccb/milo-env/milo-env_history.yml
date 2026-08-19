@@ -16,4 +16,5 @@ dependencies:
   - r-svglite
   - ca-certificates
   - openssl
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/milo-env
+  - r-ggplot2=3.5.1
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/milo-env

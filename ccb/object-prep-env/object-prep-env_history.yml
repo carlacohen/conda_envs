@@ -1,0 +1,16 @@
+name: object-prep-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.14
+  - scanpy
+  - gzip
+  - anndata=0.11.4
+  - scipy
+  - notebook=6.5.6
+  - nb_conda_kernels
+  - pandas[version='<=2']
+  - zarr
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/object-prep-env

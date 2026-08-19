@@ -1,0 +1,17 @@
+name: scarches
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - anndata=0.10
+  - scanpy=1.10
+  - scipy[version='<=1.12']
+  - zarr[version='<3']
+  - dask
+  - sparse
+  - pip
+  - cuda-version[version='>=12.2,<=12.9']
+  - pytorch[build=*cuda*]
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scarches
