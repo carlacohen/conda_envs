@@ -1,0 +1,36 @@
+name: pegasus
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scanpy=1.11
+  - anndata=0.11
+  - dask[version='<2024.8']
+  - dask-ml
+  - sparse
+  - zarr[version='<3']
+  - pandas[version='<2.0']
+  - numpy[version='<2.0']
+  - cython
+  - docopt
+  - hnswlib
+  - psutil
+  - threadpoolctl
+  - joblib[version='>=0.14']
+  - lightgbm[version='>=2.2.1']
+  - loompy
+  - leidenalg
+  - matplotlib[version='>=3.7.0']
+  - natsort
+  - pybind11
+  - scikit-learn[version='>=0.23.2']
+  - seaborn[version='>=0.13.0']
+  - statsmodels
+  - umap-learn[version='>=0.5.2']
+  - wordcloud
+  - xlsxwriter
+  - igraph
+  - pip
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/pegasus

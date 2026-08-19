@@ -1,7 +1,7 @@
 name: single-nuc-qc
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -428,4 +428,4 @@ dependencies:
   - yq=3.2.2
   - zlib=1.2.13
   - zstd=1.5.2
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/single-nuc-qc
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/single-nuc-qc

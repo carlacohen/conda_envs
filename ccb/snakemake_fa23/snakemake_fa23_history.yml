@@ -1,0 +1,11 @@
+name: snakemake_fa23
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas=2.1.1
+  - snakemake-minimal=7.32.4
+  - python=3.12.0
+  - pygments
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/snakemake_fa23

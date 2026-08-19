@@ -1,0 +1,29 @@
+name: scanpy
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - anndata=0.11
+  - scanpy=1.11
+  - leidenalg
+  - louvain
+  - dask=2024.7.1
+  - dask-ml
+  - sparse
+  - zarr[version='<3']
+  - ipykernel
+  - requests
+  - pip
+  - jupyterlab
+  - nb_conda
+  - nb_conda_kernels
+  - nbconvert
+  - nbdime
+  - pandas[version='<3']
+  - scikit-learn[version='<1.6']
+  - harmony-pytorch
+  - scipy[version='<1.17']
+  - harmonypy
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scanpy

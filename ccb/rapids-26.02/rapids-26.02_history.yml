@@ -1,0 +1,11 @@
+name: rapids-26.02
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - rapids=26.2
+  - python=3.11
+  - cuda-version[version='>=12.2,<=12.9']
+  - pytorch[build=*cuda*]
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/rapids-26.02

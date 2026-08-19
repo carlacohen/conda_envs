@@ -1,7 +1,7 @@
 name: cribbslab
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -224,4 +224,4 @@ dependencies:
   - zope.event=5.0
   - zope.interface=6.0
   - zstd=1.5.2
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cribbslab
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/cribbslab

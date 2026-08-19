@@ -1,0 +1,19 @@
+name: annotation-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.4.1
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-readxl
+  - r-ggsci
+  - r-scales
+  - r-miniui
+  - ca-certificates
+  - openssl
+  - shiny
+  - r-clustree
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/annotation-env

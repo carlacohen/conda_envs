@@ -28,4 +28,4 @@ dependencies:
   - openssl
   - matplotlib-base=3.6.0
   - pandas=1.5
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/seruatv5-scvi-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/seruatv5-scvi-env

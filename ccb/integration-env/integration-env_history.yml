@@ -18,9 +18,12 @@ dependencies:
   - r-lisi
   - r-rcpp=1.0.10
   - bioconductor-glmgampoi
-  - bioconda::bioconductor-enhancedvolcano
+  - bioconductor-enhancedvolcano
   - r-venndiagram
   - r-svglite
   - r-domc
   - r-harmony=1.2.0
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/integration-env
+  - numpy=1.26.0
+  - r-reticulate=1.34.0
+  - leidenalg
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/integration-env

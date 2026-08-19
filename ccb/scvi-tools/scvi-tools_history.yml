@@ -1,0 +1,26 @@
+name: scvi-tools
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - anndata=0.11
+  - scanpy=1.11
+  - jax[version='<=0.4.28']
+  - cuda-version[version='>=12.2,<=12.9']
+  - pytorch[build=*cuda*]
+  - zarr[version='<3']
+  - scipy[version='<1.15']
+  - dask
+  - sparse
+  - scvi-tools
+  - pandas[version='<3']
+  - pip
+  - jupyterlab
+  - ipykernel
+  - nb_conda
+  - nb_conda_kernels
+  - nbconvert
+  - nbdime
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/scvi-tools

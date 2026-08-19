@@ -8,8 +8,6 @@ dependencies:
   - r-tidyverse
   - r-cowplot
   - r-viridis
-  - r-seurat
-  - r-seuratobject
   - r-textshaping
   - r-msigdbr
   - bioconductor-clusterprofiler
@@ -18,4 +16,7 @@ dependencies:
   - r-svglite
   - ca-certificates
   - openssl
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/pathway-env
+  - r-gprofiler2
+  - r-seurat=4.4
+  - r-seuratobject=4.1.4
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/pathway-env

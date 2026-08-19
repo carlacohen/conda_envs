@@ -1,0 +1,17 @@
+name: xenium-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat
+  - r-sp
+  - r-sccustomize
+  - r-pheatmap
+  - r-matrixstats
+  - r-clustree
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/xenium-env

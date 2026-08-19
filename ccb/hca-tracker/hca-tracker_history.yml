@@ -1,0 +1,11 @@
+name: hca-tracker
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - awscli
+  - pipx
+  - s5cmd
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/hca-tracker

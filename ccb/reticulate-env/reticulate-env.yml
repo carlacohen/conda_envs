@@ -1,7 +1,7 @@
 name: reticulate-env
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
@@ -36,7 +36,6 @@ dependencies:
   - ncurses=6.4=h59595ed_2
   - numpy=1.26.0=py312heda63a1_0
   - openssl=3.1.4=hd590300_0
-  - pandas=2.1.2=py312hfb8ada1_0
   - pip=23.3.1=pyhd8ed1ab_0
   - python=3.12.0=hab00c5b_0_cpython
   - python-dateutil=2.8.2=pyhd8ed1ab_0
@@ -52,4 +51,12 @@ dependencies:
   - tzdata=2023c=h71feb2d_0
   - wheel=0.41.3=pyhd8ed1ab_0
   - xz=5.2.6=h166bdaf_0
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/reticulate-env
+  - pip:
+      - anndata==0.10.9
+      - array-api-compat==1.8
+      - h5py==3.11.0
+      - natsort==8.4.0
+      - packaging==24.1
+      - pandas==2.2.3
+      - scipy==1.14.1
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/reticulate-env

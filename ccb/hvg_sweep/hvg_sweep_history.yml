@@ -1,0 +1,19 @@
+name: hvg_sweep
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.14
+  - anndata
+  - scanpy
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - notebook=6.5.6
+  - nb_conda_kernels
+  - cuda-version[version='>=12.2,<=12.9']
+  - pytorch[build=*cuda*]
+  - pip
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/hvg_sweep

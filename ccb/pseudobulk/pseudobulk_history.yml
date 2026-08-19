@@ -1,0 +1,21 @@
+name: pseudobulk
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - anndata=0.11
+  - scanpy
+  - zarr[version='<3']
+  - pandas[version='<3']
+  - numpy
+  - pertpy
+  - rpy2
+  - anndata2ri
+  - notebook=6.5.6
+  - nb_conda_kernels
+  - pip
+  - bioconductor-edger
+  - scipy=1.13.1
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/pseudobulk

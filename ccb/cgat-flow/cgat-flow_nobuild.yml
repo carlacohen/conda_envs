@@ -1,7 +1,7 @@
 name: cgat-flow
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -240,4 +240,4 @@ dependencies:
   - zope.event=5.0
   - zope.interface=5.5.0
   - zstd=1.5.2
-prefix: /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/cgat-flow
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/cgat-flow

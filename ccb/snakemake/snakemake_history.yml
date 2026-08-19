@@ -1,0 +1,12 @@
+name: snakemake
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - graphviz
+  - python
+  - jsonpickle
+  - pandas[version='<2.0.0']
+  - snakemake=7.31
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/snakemake

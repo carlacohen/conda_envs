@@ -1,0 +1,10 @@
+name: fastqc-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - snakemake-minimal[version='>=9.7.1']
+  - fastqc
+  - multiqc
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/fastqc-env

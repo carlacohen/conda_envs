@@ -1,0 +1,16 @@
+name: xenium-cluster-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.4.1
+  - r-tidyverse
+  - r-cowplot
+  - r-viridis
+  - r-seurat=5.1.0
+  - r-sp=2.1.4
+  - r-pheatmap
+  - r-matrixstats=1.4.1
+  - r-clustree
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/xenium-cluster-env

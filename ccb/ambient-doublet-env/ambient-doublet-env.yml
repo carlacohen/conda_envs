@@ -1,7 +1,7 @@
 name: ambient-doublet-env
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
@@ -426,5 +426,4 @@ dependencies:
   - yq=3.2.2=pyhd8ed1ab_0
   - zlib=1.2.13=hd590300_5
   - zstd=1.5.2=hfc55251_7
-prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/ambient-doublet-env
+prefix: /project/ancestryhca/ccohen/mamba_installation/conda/envs/ambient-doublet-env

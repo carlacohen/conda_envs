@@ -1,7 +1,7 @@
 name: scflow_quantnuclei_minimal_v2
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
@@ -272,4 +272,4 @@ dependencies:
   - zlib=1.2.13=hd590300_5
   - zstd=1.5.2=h3eb15da_6
 prefix: 
-  /ceph/project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei_minimal_v2
+  /project/ancestryhca/ccohen/mamba_installation/conda/envs/scflow_quantnuclei_minimal_v2
